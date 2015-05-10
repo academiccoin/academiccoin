@@ -1,12 +1,12 @@
 Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2013 Feathercoin Developers
+Copyright (c) 2013 academiccoin Developers
 Distributed under the MIT/X11 software license, see the accompanying
 file COPYING or http://www.opensource.org/licenses/mit-license.php.
 This product includes software developed by the OpenSSL Project for use in the [OpenSSL Toolkit](http://www.openssl.org/). This product includes
 cryptographic software written by Eric Young ([eay@cryptsoft.com](mailto:eay@cryptsoft.com)), and UPnP software written by Thomas Bernard.
 
 
-See readme-qt.rst for instructions on building Feathercoin-Qt, the
+See readme-qt.rst for instructions on building academiccoin-Qt, the
 graphical user interface.
 
 WINDOWS BUILD NOTES
@@ -57,7 +57,7 @@ change 'MAKE' env. variable from 'C:\MinGW32\bin\mingw32-make.exe' to '/c/MinGW3
 LevelDB
 -------
 MSYS shell:
-	cd /c/Feathercoin-0.8.5/leveldb
+	cd /c/academiccoin-0.8.5/leveldb
 	TARGET_OS=NATIVE_WINDOWS make libleveldb.a libmemenv.a
 	
 Berkeley DB
@@ -95,7 +95,7 @@ MSYS shell:
 	mkdir miniupnpc
 	cp *.h miniupnpc/
 
-Feathercoin
+academiccoin
 -------
 DOS prompt:
 

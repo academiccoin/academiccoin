@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Feathercoin</source>
-        <translation>&amp;О Feathercoin</translation>
+        <source>About academiccoin</source>
+        <translation>&amp;О academiccoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Feathercoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Feathercoin&lt;/b&gt; версия</translation>
+        <source>&lt;b&gt;academiccoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;academiccoin&lt;/b&gt; версия</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Feathercoin developers</source>
-        <translation>Разработчики Feathercoin</translation>
+        <source>The academiccoin developers</source>
+        <translation>Разработчики academiccoin</translation>
     </message>
 </context>
 <context>
@@ -67,7 +67,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Feathercoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your academiccoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Это Ваши адреса для получения платежей. Вы можете дать разные адреса отправителям, чтобы отслеживать, кто именно вам платит.</translation>
     </message>
     <message>
@@ -82,8 +82,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Feathercoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом Feathercoin</translation>
+        <source>Sign a message to prove you own a academiccoin address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом academiccoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Feathercoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Feathercoin</translation>
+        <source>Verify a message to ensure it was signed with a specified academiccoin address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом academiccoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,7 +122,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Feathercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your academiccoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Ваши адреса для получения средств. Совет: проверьте сумму и адрес назначения перед переводом.</translation>
     </message>
     <message>
@@ -275,8 +275,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Feathercoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Feathercoins from being stolen by malware infecting your computer.</source>
-        <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши Feathercoin от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
+        <source>academiccoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your academiccoins from being stolen by malware infecting your computer.</source>
+        <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши academiccoin от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Feathercoin</source>
-        <translation>Показать информацию о Feathercoin&apos;е</translation>
+        <source>Show information about academiccoin</source>
+        <translation>Показать информацию о academiccoin&apos;е</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Feathercoin address</source>
-        <translation>Отправить монеты на указанный адрес Feathercoin</translation>
+        <source>Send coins to a academiccoin address</source>
+        <translation>Отправить монеты на указанный адрес academiccoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Feathercoin</source>
-        <translation>Изменить параметры конфигурации Feathercoin</translation>
+        <source>Modify configuration options for academiccoin</source>
+        <translation>Изменить параметры конфигурации academiccoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Feathercoin</source>
-        <translation>Feathercoin</translation>
+        <source>academiccoin</source>
+        <translation>academiccoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Feathercoin</source>
-        <translation>&amp;О Feathercoin</translation>
+        <source>&amp;About academiccoin</source>
+        <translation>&amp;О academiccoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Feathercoin addresses to prove you own them</source>
-        <translation>Подписать сообщения вашим адресом Feathercoin, чтобы доказать, что вы им владеете</translation>
+        <source>Sign messages with your academiccoin addresses to prove you own them</source>
+        <translation>Подписать сообщения вашим адресом academiccoin, чтобы доказать, что вы им владеете</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Feathercoin addresses</source>
-        <translation>Проверить сообщения, чтобы удостовериться, что они были подписаны определённым адресом Feathercoin</translation>
+        <source>Verify messages to ensure they were signed with specified academiccoin addresses</source>
+        <translation>Проверить сообщения, чтобы удостовериться, что они были подписаны определённым адресом academiccoin</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,12 +536,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Feathercoin client</source>
-        <translation>Feathercoin клиент</translation>
+        <source>academiccoin client</source>
+        <translation>academiccoin клиент</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Feathercoin network</source>
+        <source>%n active connection(s) to academiccoin network</source>
         <translation><numerusform>%n активное соединение с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform></translation>
     </message>
     <message>
@@ -656,8 +656,8 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Feathercoin address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом Feathercoin или неправильными параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid academiccoin address or malformed URI parameters.</source>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом academiccoin или неправильными параметрами URI.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Feathercoin can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. Feathercoin не может безопасно продолжать работу и будет закрыт.</translation>
+        <source>A fatal error occurred. academiccoin can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. academiccoin не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Feathercoin address.</source>
-        <translation>Введённый адрес &quot;%1&quot; не является правильным Feathercoin-адресом.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid academiccoin address.</source>
+        <translation>Введённый адрес &quot;%1&quot; не является правильным academiccoin-адресом.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Feathercoin-Qt</source>
-        <translation>Feathercoin-Qt</translation>
+        <source>academiccoin-Qt</source>
+        <translation>academiccoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Feathercoin after logging in to the system.</source>
-        <translation>Автоматически запускать Feathercoin после входа в систему</translation>
+        <source>Automatically start academiccoin after logging in to the system.</source>
+        <translation>Автоматически запускать academiccoin после входа в систему</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Feathercoin on system login</source>
-        <translation>&amp;Запускать Feathercoin при входе в систему</translation>
+        <source>&amp;Start academiccoin on system login</source>
+        <translation>&amp;Запускать academiccoin при входе в систему</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Feathercoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для Feathercoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the academiccoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для academiccoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Feathercoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Подключаться к сети Feathercoin через прокси SOCKS (например, при подключении через Tor).</translation>
+        <source>Connect to the academiccoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Подключаться к сети academiccoin через прокси SOCKS (например, при подключении через Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Feathercoin.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска Feathercoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting academiccoin.</source>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска academiccoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,8 +944,8 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Feathercoin addresses in the transaction list or not.</source>
-        <translation>Показывать ли адреса Feathercoin в списке транзакций.</translation>
+        <source>Whether to show academiccoin addresses in the transaction list or not.</source>
+        <translation>Показывать ли адреса academiccoin в списке транзакций.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Feathercoin.</source>
-        <translation>Эта настройка вступит в силу после перезапуска Feathercoin</translation>
+        <source>This setting will take effect after restarting academiccoin.</source>
+        <translation>Эта настройка вступит в силу после перезапуска academiccoin</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Feathercoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью Feathercoin после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the academiccoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью academiccoin после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1069,8 +1069,8 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start Feathercoin: click-to-pay handler</source>
-        <translation>Не удаётся запустить Feathercoin: обработчик click-to-pay</translation>
+        <source>Cannot start academiccoin: click-to-pay handler</source>
+        <translation>Не удаётся запустить academiccoin: обработчик click-to-pay</translation>
     </message>
 </context>
 <context>
@@ -1219,8 +1219,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Feathercoin-Qt help message to get a list with possible Feathercoin command-line options.</source>
-        <translation>Показать помощь по Feathercoin-Qt, чтобы получить список доступных параметров командной строки.</translation>
+        <source>Show the academiccoin-Qt help message to get a list with possible academiccoin command-line options.</source>
+        <translation>Показать помощь по academiccoin-Qt, чтобы получить список доступных параметров командной строки.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Feathercoin - Debug window</source>
-        <translation>Feathercoin - Окно отладки</translation>
+        <source>academiccoin - Debug window</source>
+        <translation>academiccoin - Окно отладки</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Feathercoin Core</source>
-        <translation>Ядро Feathercoin</translation>
+        <source>academiccoin Core</source>
+        <translation>Ядро academiccoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1254,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Feathercoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл Feathercoin из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
+        <source>Open the academiccoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный лог-файл academiccoin из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1264,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Feathercoin RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль Feathercoin.</translation>
+        <source>Welcome to the academiccoin RPC console.</source>
+        <translation>Добро пожаловать в RPC-консоль academiccoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1448,8 +1448,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Feathercoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введите Feathercoin-адрес (например 1LA5FtQhnnWnkK6zjFfutR7Stiit4wKd63)</translation>
+        <source>Enter a academiccoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Введите academiccoin-адрес (например 1LA5FtQhnnWnkK6zjFfutR7Stiit4wKd63)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Feathercoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом Feathercoin</translation>
+        <source>Sign the message to prove you own this academiccoin address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом academiccoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Feathercoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Feathercoin</translation>
+        <source>Verify the message to ensure it was signed with the specified academiccoin address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом academiccoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Feathercoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введите адрес Feathercoin (напр. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a academiccoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Введите адрес academiccoin (напр. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Feathercoin signature</source>
-        <translation>Введите подпись Feathercoin</translation>
+        <source>Enter academiccoin signature</source>
+        <translation>Введите подпись academiccoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Feathercoin developers</source>
-        <translation>Разработчики Feathercoin</translation>
+        <source>The academiccoin developers</source>
+        <translation>Разработчики academiccoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2187,7 +2187,7 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Feathercoin version</source>
+        <source>academiccoin version</source>
         <translation>Версия</translation>
     </message>
     <message>
@@ -2197,8 +2197,8 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or Feathercoind</source>
-        <translation>Отправить команду на -server или Feathercoind</translation>
+        <source>Send command to -server or academiccoind</source>
+        <translation>Отправить команду на -server или academiccoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2218,13 +2218,13 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: Feathercoin.conf)</source>
-        <translation>Указать конфигурационный файл (по умолчанию: Feathercoin.conf)</translation>
+        <source>Specify configuration file (default: academiccoin.conf)</source>
+        <translation>Указать конфигурационный файл (по умолчанию: academiccoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: Feathercoind.pid)</source>
-        <translation>Задать pid-файл (по умолчанию: Feathercoin.pid)</translation>
+        <source>Specify pid file (default: academiccoind.pid)</source>
+        <translation>Задать pid-файл (по умолчанию: academiccoin.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2301,24 +2301,24 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Feathercoinrpc
+rpcuser=academiccoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Feathercoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;academiccoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, вы должны установить опцию rpcpassword в конфигурационном файле:
  %s
 Рекомендуется использовать следующий случайный пароль:
-rpcuser=Feathercoinrpc
+rpcuser=academiccoinrpc
 rpcpassword=%s
 (вам не нужно запоминать этот пароль)
 Имя и пароль ДОЛЖНЫ различаться.
 Если файл не существует, создайте его и установите права доступа только для владельца, только для чтения.
 Также рекомендуется включить alertnotify для оповещения о проблемах;
-Например: alertnotify=echo %%s | mail -s &quot;Feathercoin Alert&quot; admin@foo.com
+Например: alertnotify=echo %%s | mail -s &quot;academiccoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2333,8 +2333,8 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Feathercoin is probably already running.</source>
-        <translation>Не удаётся установить блокировку на каталог данных %s.  Возможно, Feathercoin уже работает.</translation>
+        <source>Cannot obtain a lock on data directory %s. academiccoin is probably already running.</source>
+        <translation>Не удаётся установить блокировку на каталог данных %s.  Возможно, academiccoin уже работает.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2378,8 +2378,8 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Feathercoin will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, Feathercoin будет работать некорректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong academiccoin will not work properly.</source>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, academiccoin будет работать некорректно.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2628,9 +2628,9 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Feathercoin Wiki for SSL setup instructions)</source>
+        <source>SSL options: (see the academiccoin Wiki for SSL setup instructions)</source>
         <translation>
-Параметры SSL: (см. Feathercoin Wiki для инструкций по настройке SSL)</translation>
+Параметры SSL: (см. academiccoin Wiki для инструкций по настройке SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2819,13 +2819,13 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Feathercoin</source>
-        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию Feathercoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of academiccoin</source>
+        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию academiccoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Feathercoin to complete</source>
-        <translation>Необходимо перезаписать бумажник, перезапустите Feathercoin для завершения операции.</translation>
+        <source>Wallet needed to be rewritten: restart academiccoin to complete</source>
+        <translation>Необходимо перезаписать бумажник, перезапустите academiccoin для завершения операции.</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2884,8 +2884,8 @@ rpcpassword=%s
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Feathercoin is probably already running.</source>
-        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, Feathercoin уже работает.</translation>
+        <source>Unable to bind to %s on this computer. academiccoin is probably already running.</source>
+        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, academiccoin уже работает.</translation>
     </message>
     <message>
         <location line="+64"/>

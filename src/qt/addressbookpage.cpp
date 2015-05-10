@@ -64,7 +64,7 @@ AddressBookPage::AddressBookPage(Mode mode, Tabs tab, QWidget *parent) :
     switch(tab)
     {
     case SendingTab:
-        ui->labelExplanation->setText(tr("These are your Feathercoin addresses for sending payments. Always check the amount and the receiving address before sending coins."));
+        ui->labelExplanation->setText(tr("These are your academiccoin addresses for sending payments. Always check the amount and the receiving address before sending coins."));
         ui->deleteAddress->setVisible(true);
         ui->signMessage->setVisible(false);
 #ifdef USE_ZXING
@@ -72,7 +72,7 @@ AddressBookPage::AddressBookPage(Mode mode, Tabs tab, QWidget *parent) :
 #endif
         break;
     case ReceivingTab:
-        ui->labelExplanation->setText(tr("These are your Feathercoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you."));
+        ui->labelExplanation->setText(tr("These are your academiccoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you."));
         ui->deleteAddress->setVisible(false);
         ui->signMessage->setVisible(true);
 #ifdef USE_ZXING

@@ -1,4 +1,4 @@
-Name Feathercoin
+Name academiccoin
 
 RequestExecutionLevel highest
 SetCompressor /SOLID lzma
@@ -6,7 +6,7 @@ SetCompressor /SOLID lzma
 # General Symbol Definitions
 !define REGKEY "SOFTWARE\$(^Name)"
 !define VERSION 0.8.7.1
-!define COMPANY "Feathercoin project"
+!define COMPANY "academiccoin project"
 !define URL http://feathercoin.com/
 
 # MUI Symbol Definitions
@@ -18,9 +18,9 @@ SetCompressor /SOLID lzma
 !define MUI_STARTMENUPAGE_REGISTRY_ROOT HKLM
 !define MUI_STARTMENUPAGE_REGISTRY_KEY ${REGKEY}
 !define MUI_STARTMENUPAGE_REGISTRY_VALUENAME StartMenuGroup
-!define MUI_STARTMENUPAGE_DEFAULTFOLDER Feathercoin
+!define MUI_STARTMENUPAGE_DEFAULTFOLDER academiccoin
 !define MUI_FINISHPAGE_RUN $INSTDIR\feathercoin-qt.exe
-!define MUI_FINISHPAGE_RUN_TEXT "Launch Feathercoin"
+!define MUI_FINISHPAGE_RUN_TEXT "Launch academiccoin"
 !define MUI_UNICON "${NSISDIR}\Contrib\Graphics\Icons\modern-uninstall.ico"
 !define MUI_UNWELCOMEFINISHPAGE_BITMAP "pixmaps\nsis-wizard.bmp"
 !define MUI_UNFINISHPAGE_NOAUTOCLOSE
@@ -42,13 +42,13 @@ Var StartMenuGroup
 
 # Installer attributes
 OutFile feathercoin-${VERSION}-setup.exe
-InstallDir $PROGRAMFILES\Feathercoin
+InstallDir $PROGRAMFILES\academiccoin
 CRCCheck on
 XPStyle on
 BrandingText " "
 ShowInstDetails show
 VIProductVersion ${VERSION}
-VIAddVersionKey ProductName Feathercoin
+VIAddVersionKey ProductName academiccoin
 VIAddVersionKey ProductVersion "${VERSION}"
 VIAddVersionKey CompanyName "${COMPANY}"
 VIAddVersionKey CompanyWebsite "${URL}"
@@ -74,8 +74,8 @@ Section -post SEC0001
     WriteUninstaller $INSTDIR\uninstall.exe
     !insertmacro MUI_STARTMENU_WRITE_BEGIN Application
     CreateDirectory $SMPROGRAMS\$StartMenuGroup
-    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Feathercoin.lnk" $INSTDIR\feathercoin-qt.exe
-    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Uninstall Feathercoin.lnk" $INSTDIR\uninstall.exe
+    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\academiccoin.lnk" $INSTDIR\feathercoin-qt.exe
+    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Uninstall academiccoin.lnk" $INSTDIR\uninstall.exe
     !insertmacro MUI_STARTMENU_WRITE_END
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" DisplayName "$(^Name)"
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" DisplayVersion "${VERSION}"
@@ -86,7 +86,7 @@ Section -post SEC0001
     WriteRegDWORD HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" NoModify 1
     WriteRegDWORD HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" NoRepair 1
     WriteRegStr HKCR "feathercoin" "URL Protocol" ""
-    WriteRegStr HKCR "feathercoin" "" "URL:Feathercoin"
+    WriteRegStr HKCR "feathercoin" "" "URL:academiccoin"
     WriteRegStr HKCR "feathercoin\DefaultIcon" "" $INSTDIR\feathercoin-qt.exe
     WriteRegStr HKCR "feathercoin\shell\open\command" "" '"$INSTDIR\feathercoin-qt.exe" "%1"'
 SectionEnd
@@ -113,9 +113,9 @@ SectionEnd
 
 Section -un.post UNSEC0001
     DeleteRegKey HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)"
-    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Uninstall Feathercoin.lnk"
-    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Feathercoin.lnk"
-    Delete /REBOOTOK "$SMSTARTUP\Feathercoin.lnk"
+    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Uninstall academiccoin.lnk"
+    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\academiccoin.lnk"
+    Delete /REBOOTOK "$SMSTARTUP\academiccoin.lnk"
     Delete /REBOOTOK $INSTDIR\uninstall.exe
     Delete /REBOOTOK $INSTDIR\debug.log
     Delete /REBOOTOK $INSTDIR\db.log

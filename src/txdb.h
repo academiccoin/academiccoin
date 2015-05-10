@@ -1,6 +1,6 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2012 The Bitcoin developers
-// Copyright (c) 2013 Feathercoin Developers
+// Copyright (c) 2013 academiccoin Developers
 // Copyright (c) 2011-2013 PPCoin developers
 // Copyright (c) 2013 Primecoin developers
 // Distributed under the MIT/X11 software license, see the accompanying

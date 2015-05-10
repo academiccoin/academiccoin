@@ -15,16 +15,16 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>Feathercoin-Qt</string>
+	<string>academiccoin-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.feathercoin.Feathercoin-Qt</string>
+	<string>org.feathercoin.academiccoin-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>org.feathercoin.FeathercoinPayment</string>
+            <string>org.feathercoin.academiccoinPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
               <string>feathercoin</string>

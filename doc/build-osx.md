@@ -26,7 +26,7 @@ Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.
 Notes
 -----
 
-See `doc/readme-qt.rst` for instructions on building Feathercoin-Qt, the
+See `doc/readme-qt.rst` for instructions on building academiccoin-Qt, the
 graphical user interface.
 
 Tested on OS X 10.5 through 10.8 on Intel processors only. PPC is not
@@ -134,7 +134,7 @@ Rerunning "openssl version" should now return the correct version.
 Creating a release build
 ------------------------
 
-A feathercoind binary is not included in the Feathercoin-Qt.app bundle. You can ignore
+A feathercoind binary is not included in the academiccoin-Qt.app bundle. You can ignore
 this section if you are building `feathercoind` for your own use.
 
 If you are building `feathercond` for others, your build machine should be set up
@@ -156,10 +156,10 @@ As of December 2012, the `boost` port does not obey `macosx_deployment_target`.
 Download `http://gavinandresen-bitcoin.s3.amazonaws.com/boost_macports_fix.zip`
 for a fix. Some ports also seem to obey either `build_arch` or
 `macosx_deployment_target`, but not both at the same time. For example, building
-on an OS X 10.6 64-bit machine fails. Official release builds of Feathercoin-Qt are
+on an OS X 10.6 64-bit machine fails. Official release builds of academiccoin-Qt are
 compiled on an OS X 10.6 32-bit machine to workaround that problem.
 
-Once dependencies are compiled, creating `Feathercoin-Qt.app` is easy:
+Once dependencies are compiled, creating `academiccoin-Qt.app` is easy:
 
     make -f Makefile.osx RELEASE=1
 
@@ -172,8 +172,8 @@ directory. We have to first create the RPC configuration file, though.
 Run `./feathercoind` to get the filename where it should be put, or just try these
 commands:
 
-    echo -e "rpcuser=feathercoinrpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/Feathercoin/feathercoin.conf"
-    chmod 600 "/Users/${USER}/Library/Application Support/Feathercoin/feathercoin.conf"
+    echo -e "rpcuser=feathercoinrpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/academiccoin/feathercoin.conf"
+    chmod 600 "/Users/${USER}/Library/Application Support/academiccoin/feathercoin.conf"
 
 When next you run it, it will start downloading the blockchain, but it won't
 output anything while it's doing this. This process may take several hours.

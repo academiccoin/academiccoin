@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Feathercoin</source>
-        <translation>Feathercoinist</translation>
+        <source>About academiccoin</source>
+        <translation>academiccoinist</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Feathercoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Feathercoini&lt;/b&gt; versioon</translation>
+        <source>&lt;b&gt;academiccoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;academiccoini&lt;/b&gt; versioon</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,7 +34,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+0"/>
-        <source>The Feathercoin developers</source>
+        <source>The academiccoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -67,8 +67,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Feathercoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Maksete saamiseks kasutatavad Feathercoini aadressid. Maksjate paremaks jälgimiseks võib igaühele anda erineva.</translation>
+        <source>These are your academiccoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Maksete saamiseks kasutatavad academiccoini aadressid. Maksjate paremaks jälgimiseks võib igaühele anda erineva.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,7 +82,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Feathercoin address</source>
+        <source>Sign a message to prove you own a academiccoin address</source>
         <translation>Allkirjasta sõnum, et tõestada Bitconi aadressi olemasolu.</translation>
     </message>
     <message>
@@ -107,8 +107,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Feathercoin address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Feathercoini aadressiga.</translation>
+        <source>Verify a message to ensure it was signed with a specified academiccoin address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud academiccoini aadressiga.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Feathercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Need on sinu Feathercoini aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
+        <source>These are your academiccoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Need on sinu academiccoini aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-56"/>
-        <source>Feathercoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Feathercoins from being stolen by malware infecting your computer.</source>
-        <translation>Feathercoin sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista Feathercoinide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
+        <source>academiccoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your academiccoins from being stolen by malware infecting your computer.</source>
+        <translation>academiccoin sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista academiccoinide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Feathercoin</source>
-        <translation>Kuva info Feathercoini kohta</translation>
+        <source>Show information about academiccoin</source>
+        <translation>Kuva info academiccoini kohta</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Feathercoin address</source>
-        <translation>Saada münte Feathercoini aadressile</translation>
+        <source>Send coins to a academiccoin address</source>
+        <translation>Saada münte academiccoini aadressile</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Feathercoin</source>
-        <translation>Muuda Feathercoini seadeid</translation>
+        <source>Modify configuration options for academiccoin</source>
+        <translation>Muuda academiccoini seadeid</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Feathercoin</source>
-        <translation>Feathercoin</translation>
+        <source>academiccoin</source>
+        <translation>academiccoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Feathercoin</source>
-        <translation>%Feathercoinist</translation>
+        <source>&amp;About academiccoin</source>
+        <translation>%academiccoinist</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Feathercoin addresses to prove you own them</source>
-        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Feathercoini aadressiga</translation>
+        <source>Sign messages with your academiccoin addresses to prove you own them</source>
+        <translation>Omandi tõestamiseks allkirjasta sõnumid oma academiccoini aadressiga</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Feathercoin addresses</source>
-        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Feathercoini aadressiga</translation>
+        <source>Verify messages to ensure they were signed with specified academiccoin addresses</source>
+        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud academiccoini aadressiga</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+47"/>
-        <source>Feathercoin client</source>
-        <translation>Feathercoini klient</translation>
+        <source>academiccoin client</source>
+        <translation>academiccoini klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Feathercoin network</source>
-        <translation><numerusform>%n aktiivne ühendus Feathercoini võrku</numerusform><numerusform>%n aktiivset ühendust Feathercoini võrku</numerusform></translation>
+        <source>%n active connection(s) to academiccoin network</source>
+        <translation><numerusform>%n aktiivne ühendus academiccoini võrku</numerusform><numerusform>%n aktiivset ühendust academiccoini võrku</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -655,8 +655,8 @@ Aadress: %4⏎</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Feathercoin address or malformed URI parameters.</source>
-        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu Feathercoini aadress või vigased URI parameetrid.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid academiccoin address or malformed URI parameters.</source>
+        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu academiccoini aadress või vigased URI parameetrid.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -670,8 +670,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Feathercoin can no longer continue safely and will quit.</source>
-        <translation>Ilmnes kriitiline tõrge. Feathercoin suletakse turvakaalutluste tõttu.</translation>
+        <source>A fatal error occurred. academiccoin can no longer continue safely and will quit.</source>
+        <translation>Ilmnes kriitiline tõrge. academiccoin suletakse turvakaalutluste tõttu.</translation>
     </message>
 </context>
 <context>
@@ -736,8 +736,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Feathercoin address.</source>
-        <translation>Sisestatud aadress &quot;%1&quot; ei ole Feathercoinis kehtiv.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid academiccoin address.</source>
+        <translation>Sisestatud aadress &quot;%1&quot; ei ole academiccoinis kehtiv.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -755,8 +755,8 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Feathercoin-Qt</source>
-        <translation>Feathercoini-Qt</translation>
+        <source>academiccoin-Qt</source>
+        <translation>academiccoini-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -818,13 +818,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Feathercoin after logging in to the system.</source>
-        <translation>Käivita Feathercoin süsteemi logimisel.</translation>
+        <source>Automatically start academiccoin after logging in to the system.</source>
+        <translation>Käivita academiccoin süsteemi logimisel.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Feathercoin on system login</source>
-        <translation>&amp;Start Feathercoin sisselogimisel</translation>
+        <source>&amp;Start academiccoin on system login</source>
+        <translation>&amp;Start academiccoin sisselogimisel</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -843,8 +843,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Feathercoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Feathercoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
+        <source>Automatically open the academiccoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>academiccoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -853,8 +853,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Feathercoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Kasuta Feathercoini võrgustikku ühendumiseks SOCKS turva proxy&apos;t (nt Tor&apos;i kasutamisel).</translation>
+        <source>Connect to the academiccoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Kasuta academiccoini võrgustikku ühendumiseks SOCKS turva proxy&apos;t (nt Tor&apos;i kasutamisel).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -928,8 +928,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Feathercoin.</source>
-        <translation>Kasutajaliidese keele valimise koht. Valik rakendub Feathercoini käivitamisel.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting academiccoin.</source>
+        <translation>Kasutajaliidese keele valimise koht. Valik rakendub academiccoini käivitamisel.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -943,8 +943,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Feathercoin addresses in the transaction list or not.</source>
-        <translation>Kuvada Feathercoini aadress tehingute loetelus või mitte.</translation>
+        <source>Whether to show academiccoin addresses in the transaction list or not.</source>
+        <translation>Kuvada academiccoini aadress tehingute loetelus või mitte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -995,8 +995,8 @@ Aadress: %4⏎</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Feathercoin.</source>
-        <translation>Tehtud valik rakendub Feathercoini käivitamisel.</translation>
+        <source>This setting will take effect after restarting academiccoin.</source>
+        <translation>Tehtud valik rakendub academiccoini käivitamisel.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1014,7 +1014,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Feathercoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the academiccoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Kuvatav info ei pruugi olla ajakohane. Ühenduse loomisel süngitakse sinu rahakott automaatselt Bitconi võrgustikuga, kuid see toiming on hetkel lõpetamata.</translation>
     </message>
     <message>
@@ -1068,8 +1068,8 @@ Aadress: %4⏎</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start Feathercoin: click-to-pay handler</source>
-        <translation>Feathercoin ei käivitu: vajuta-maksa toiming</translation>
+        <source>Cannot start academiccoin: click-to-pay handler</source>
+        <translation>academiccoin ei käivitu: vajuta-maksa toiming</translation>
     </message>
 </context>
 <context>
@@ -1218,8 +1218,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Feathercoin-Qt help message to get a list with possible Feathercoin command-line options.</source>
-        <translation>Näita kehtivate käsurea valikute kuvamiseks Feathercoini-Qt abiteksti</translation>
+        <source>Show the academiccoin-Qt help message to get a list with possible academiccoin command-line options.</source>
+        <translation>Näita kehtivate käsurea valikute kuvamiseks academiccoini-Qt abiteksti</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1238,13 +1238,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Feathercoin - Debug window</source>
-        <translation>Feathercoin - debugimise aken</translation>
+        <source>academiccoin - Debug window</source>
+        <translation>academiccoin - debugimise aken</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Feathercoin Core</source>
-        <translation>Feathercoini tuumik</translation>
+        <source>academiccoin Core</source>
+        <translation>academiccoini tuumik</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1253,8 +1253,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Feathercoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ava Feathercoini logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
+        <source>Open the academiccoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ava academiccoini logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1263,8 +1263,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Feathercoin RPC console.</source>
-        <translation>Teretulemast Feathercoini RPC konsooli.</translation>
+        <source>Welcome to the academiccoin RPC console.</source>
+        <translation>Teretulemast academiccoini RPC konsooli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1447,8 +1447,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Feathercoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Sisesta Feathercoini aadress (nt: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a academiccoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Sisesta academiccoini aadress (nt: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1512,8 +1512,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Feathercoin address</source>
-        <translation>Allkirjasta sõnum Feathercoini aadressi sulle kuulumise tõestamiseks</translation>
+        <source>Sign the message to prove you own this academiccoin address</source>
+        <translation>Allkirjasta sõnum academiccoini aadressi sulle kuulumise tõestamiseks</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1548,8 +1548,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Feathercoin address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Feathercoini aadressiga.</translation>
+        <source>Verify the message to ensure it was signed with the specified academiccoin address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud academiccoini aadressiga.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1564,8 +1564,8 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Feathercoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Sisesta Feathercoini aadress (nt: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a academiccoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Sisesta academiccoini aadress (nt: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1574,8 +1574,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Feathercoin signature</source>
-        <translation>Sisesta Feathercoini allkiri</translation>
+        <source>Enter academiccoin signature</source>
+        <translation>Sisesta academiccoini allkiri</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1648,7 +1648,7 @@ Aadress: %4⏎</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Feathercoin developers</source>
+        <source>The academiccoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2186,8 +2186,8 @@ Aadress: %4⏎</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Feathercoin version</source>
-        <translation>Feathercoini versioon</translation>
+        <source>academiccoin version</source>
+        <translation>academiccoini versioon</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2196,8 +2196,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or Feathercoind</source>
-        <translation>Saada käsklus -serverile või Feathercoindile</translation>
+        <source>Send command to -server or academiccoind</source>
+        <translation>Saada käsklus -serverile või academiccoindile</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2216,13 +2216,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: Feathercoin.conf)</source>
-        <translation>Täpsusta sätete fail (vaikimisi: Feathercoin.conf)</translation>
+        <source>Specify configuration file (default: academiccoin.conf)</source>
+        <translation>Täpsusta sätete fail (vaikimisi: academiccoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: Feathercoind.pid)</source>
-        <translation>Täpsusta PID fail (vaikimisi: Feathercoin.pid)</translation>
+        <source>Specify pid file (default: academiccoind.pid)</source>
+        <translation>Täpsusta PID fail (vaikimisi: academiccoin.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2299,24 +2299,24 @@ Aadress: %4⏎</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Feathercoinrpc
+rpcuser=academiccoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Feathercoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;academiccoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, sul tuleb rpcpassword määrata seadete failis:
 %s
 Soovitatav on kasutada järgmist juhuslikku parooli:
-rpcuser=Feathercoinrpc
+rpcuser=academiccoinrpc
 rpcpassword=%s
 (seda parooli ei pea meeles pidama)
 Kasutajanimi ning parool EI TOHI kattuda.
 Kui faili ei leita, loo see ainult-omaniku-loetavas failiõigustes .
 Soovitatav on seadistada tõrgete puhul teavitus;
-nt: alertnotify=echo %%s | email -s &quot;Feathercoin Alert&quot; admin@foo.com
+nt: alertnotify=echo %%s | email -s &quot;academiccoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2331,8 +2331,8 @@ nt: alertnotify=echo %%s | email -s &quot;Feathercoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Feathercoin is probably already running.</source>
-        <translation>Ei suuda määrata ainuõigust andmekaustale %s. Tõenäolisel on Feathercoin juba avatud.</translation>
+        <source>Cannot obtain a lock on data directory %s. academiccoin is probably already running.</source>
+        <translation>Ei suuda määrata ainuõigust andmekaustale %s. Tõenäolisel on academiccoin juba avatud.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2376,8 +2376,8 @@ nt: alertnotify=echo %%s | email -s &quot;Feathercoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Feathercoin will not work properly.</source>
-        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis Feathercoin ei tööta korralikult</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong academiccoin will not work properly.</source>
+        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis academiccoin ei tööta korralikult</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2626,8 +2626,8 @@ nt: alertnotify=echo %%s | email -s &quot;Feathercoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Feathercoin Wiki for SSL setup instructions)</source>
-        <translation>SSL valikud: (vaata Feathercoini Wikist või SSL sätete juhendist)</translation>
+        <source>SSL options: (see the academiccoin Wiki for SSL setup instructions)</source>
+        <translation>SSL valikud: (vaata academiccoini Wikist või SSL sätete juhendist)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2816,13 +2816,13 @@ nt: alertnotify=echo %%s | email -s &quot;Feathercoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Feathercoin</source>
-        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab Feathercoini uusimat versiooni</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of academiccoin</source>
+        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab academiccoini uusimat versiooni</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Feathercoin to complete</source>
-        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita Feathercoin</translation>
+        <source>Wallet needed to be rewritten: restart academiccoin to complete</source>
+        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita academiccoin</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2881,8 +2881,8 @@ nt: alertnotify=echo %%s | email -s &quot;Feathercoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Feathercoin is probably already running.</source>
-        <translation>%s&apos;ga ei ole võimalik sellest arvutist siduda. Feathercoin juba töötab.</translation>
+        <source>Unable to bind to %s on this computer. academiccoin is probably already running.</source>
+        <translation>%s&apos;ga ei ole võimalik sellest arvutist siduda. academiccoin juba töötab.</translation>
     </message>
     <message>
         <location line="+64"/>

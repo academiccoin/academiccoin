@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("Feathercoins");
-    case mBTC: return QString("Milli-Feathercoins (1 / 1,000)");
-    case uBTC: return QString("Micro-Feathercoins (1 / 1,000,000)");
+    case BTC: return QString("academiccoins");
+    case mBTC: return QString("Milli-academiccoins (1 / 1,000)");
+    case uBTC: return QString("Micro-academiccoins (1 / 1,000,000)");
     default: return QString("???");
     }
 }

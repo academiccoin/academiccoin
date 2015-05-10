@@ -11,7 +11,7 @@ Up to 50% faster PoW validation, faster sync and reindexing.
 
 Peers older than protocol version 60002 are disconnected.  0.6.4.4 is the oldest compatible client.
 
- Internal miner added back to Feathercoin.  setgenerate now works, although it is generally a bad idea as it is significantly slower than external CPU miners.
+ Internal miner added back to academiccoin.  setgenerate now works, although it is generally a bad idea as it is significantly slower than external CPU miners.
 
 New RPC commands: getbestblockhash and verifychain
 
@@ -37,7 +37,7 @@ Windows only: Fixes issue where network connectivity can fail.
 Cleanup of SSE2 scrypt detection.
 
 Minor fixes:
- - s/Bitcoin/Feathercoin/ in the Coin Control example
+ - s/Bitcoin/academiccoin/ in the Coin Control example
  - Fix custom build on MacOS X 10.9
  - Fix QT5 custom build
  - Update Debian build instructions
@@ -48,7 +48,7 @@ Minor fixes:
 
 Workaround negative version numbers serialization bug.
 
-Fix out-of-bounds check (Feathercoin currently does not use this codepath, but we apply this
+Fix out-of-bounds check (academiccoin currently does not use this codepath, but we apply this
 patch just to match Bitcoin 0.8.5.)
 
 0.8.4.1 changes

@@ -36,7 +36,7 @@ SendCoinsDialog::SendCoinsDialog(QWidget *parent) :
 #endif
 #if QT_VERSION >= 0x040700
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter a Feathercoin address (e.g. 6nqmPL9tX4Uz3uQhbz8GrgLfXQNQEXstVu)"));
+    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter a academiccoin address (e.g. 6nqmPL9tX4Uz3uQhbz8GrgLfXQNQEXstVu)"));
 #endif
 
 #ifndef USE_ZXING

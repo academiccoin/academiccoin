@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Feathercoin</source>
-        <translation>Om Feathercoin</translation>
+        <source>About academiccoin</source>
+        <translation>Om academiccoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Feathercoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Feathercoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;academiccoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;academiccoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="+0"/>
-        <source>The Feathercoin developers</source>
-        <translation>Feathercoin-udviklerne</translation>
+        <source>The academiccoin developers</source>
+        <translation>academiccoin-udviklerne</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Feathercoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dette er dine Feathercoin-adresser til at modtage betalinger med. Du kan give en forskellig adresse til hver afsender, så du kan holde styr på, hvem der betaler dig.</translation>
+        <source>These are your academiccoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dette er dine academiccoin-adresser til at modtage betalinger med. Du kan give en forskellig adresse til hver afsender, så du kan holde styr på, hvem der betaler dig.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Feathercoin address</source>
-        <translation>Underskriv en besked for at bevise, at en Feathercoin-adresse tilhører dig</translation>
+        <source>Sign a message to prove you own a academiccoin address</source>
+        <translation>Underskriv en besked for at bevise, at en academiccoin-adresse tilhører dig</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Feathercoin address</source>
-        <translation>Efterprøv en besked for at sikre, at den er underskrevet med den angivne Feathercoin-adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified academiccoin address</source>
+        <translation>Efterprøv en besked for at sikre, at den er underskrevet med den angivne academiccoin-adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Feathercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Disse er dine Feathercoin-adresser for at sende betalinger. Tjek altid beløb og modtageradresse, inden du sender Feathercoins.</translation>
+        <source>These are your academiccoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Disse er dine academiccoin-adresser for at sende betalinger. Tjek altid beløb og modtageradresse, inden du sender academiccoins.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -138,7 +138,7 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     <message>
         <location line="+1"/>
         <source>Send &amp;Coins</source>
-        <translation>Send Feathercoins</translation>
+        <translation>Send academiccoins</translation>
     </message>
     <message>
         <location line="+260"/>
@@ -275,8 +275,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="-56"/>
-        <source>Feathercoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Feathercoins from being stolen by malware infecting your computer.</source>
-        <translation>Feathercoin vil nu lukke for at gennemføre krypteringsprocessen. Husk på, at kryptering af din tegnebog vil ikke beskytte dine Feathercoins fuldt ud mod at blive stjålet af malware på din computer.</translation>
+        <source>academiccoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your academiccoins from being stolen by malware infecting your computer.</source>
+        <translation>academiccoin vil nu lukke for at gennemføre krypteringsprocessen. Husk på, at kryptering af din tegnebog vil ikke beskytte dine academiccoins fuldt ud mod at blive stjålet af malware på din computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Feathercoin</source>
-        <translation>Vis informationer om Feathercoin</translation>
+        <source>Show information about academiccoin</source>
+        <translation>Vis informationer om academiccoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Feathercoin address</source>
-        <translation>Send Feathercoins til en Feathercoin-adresse</translation>
+        <source>Send coins to a academiccoin address</source>
+        <translation>Send academiccoins til en academiccoin-adresse</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Feathercoin</source>
-        <translation>Rediger konfigurationsindstillinger af Feathercoin</translation>
+        <source>Modify configuration options for academiccoin</source>
+        <translation>Rediger konfigurationsindstillinger af academiccoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Feathercoin</source>
-        <translation>Feathercoin</translation>
+        <source>academiccoin</source>
+        <translation>academiccoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Feathercoin</source>
-        <translation>Om Feathercoin</translation>
+        <source>&amp;About academiccoin</source>
+        <translation>Om academiccoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Feathercoin addresses to prove you own them</source>
-        <translation>Underskriv beskeder med dine Feathercoin-adresser for at bevise, at de tilhører dig</translation>
+        <source>Sign messages with your academiccoin addresses to prove you own them</source>
+        <translation>Underskriv beskeder med dine academiccoin-adresser for at bevise, at de tilhører dig</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Feathercoin addresses</source>
-        <translation>Efterprøv beskeder for at sikre, at de er underskrevet med de(n) angivne Feathercoin-adresse(r)</translation>
+        <source>Verify messages to ensure they were signed with specified academiccoin addresses</source>
+        <translation>Efterprøv beskeder for at sikre, at de er underskrevet med de(n) angivne academiccoin-adresse(r)</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="+47"/>
-        <source>Feathercoin client</source>
-        <translation>Feathercoin-klient</translation>
+        <source>academiccoin client</source>
+        <translation>academiccoin-klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Feathercoin network</source>
-        <translation><numerusform>%n aktiv(e) forbindelse(r) til Feathercoin-netværket</numerusform><numerusform>%n aktiv(e) forbindelse(r) til Feathercoin-netværket</numerusform></translation>
+        <source>%n active connection(s) to academiccoin network</source>
+        <translation><numerusform>%n aktiv(e) forbindelse(r) til academiccoin-netværket</numerusform><numerusform>%n aktiv(e) forbindelse(r) til academiccoin-netværket</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Adresse: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Feathercoin address or malformed URI parameters.</source>
-        <translation>URI kan ikke fortolkes! Dette kan skyldes en ugyldig Feathercoin-adresse eller misdannede URI-parametre.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid academiccoin address or malformed URI parameters.</source>
+        <translation>URI kan ikke fortolkes! Dette kan skyldes en ugyldig academiccoin-adresse eller misdannede URI-parametre.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Feathercoin can no longer continue safely and will quit.</source>
-        <translation>Der opstod en fatal fejl. Feathercoin kan ikke længere fortsætte sikkert og vil afslutte.</translation>
+        <source>A fatal error occurred. academiccoin can no longer continue safely and will quit.</source>
+        <translation>Der opstod en fatal fejl. academiccoin kan ikke længere fortsætte sikkert og vil afslutte.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adresse: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Feathercoin address.</source>
-        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig Feathercoin-adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid academiccoin address.</source>
+        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig academiccoin-adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adresse: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Feathercoin-Qt</source>
-        <translation>Feathercoin-Qt</translation>
+        <source>academiccoin-Qt</source>
+        <translation>academiccoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adresse: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Feathercoin after logging in to the system.</source>
-        <translation>Start Feathercoin automatisk, når der logges ind på systemet</translation>
+        <source>Automatically start academiccoin after logging in to the system.</source>
+        <translation>Start academiccoin automatisk, når der logges ind på systemet</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Feathercoin on system login</source>
-        <translation>Start Feathercoin, når systemet startes</translation>
+        <source>&amp;Start academiccoin on system login</source>
+        <translation>Start academiccoin, når systemet startes</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Feathercoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Åbn Feathercoin-klientens port på routeren automatisk. Dette virker kun, når din router understøtter UPnP og UPnP er aktiveret.</translation>
+        <source>Automatically open the academiccoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Åbn academiccoin-klientens port på routeren automatisk. Dette virker kun, når din router understøtter UPnP og UPnP er aktiveret.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Feathercoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Opret forbindelse til Feathercoin-netværket via en SOCKS-proxy (f.eks. ved tilslutning gennem Tor)</translation>
+        <source>Connect to the academiccoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Opret forbindelse til academiccoin-netværket via en SOCKS-proxy (f.eks. ved tilslutning gennem Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Feathercoin.</source>
-        <translation>Brugergrænsefladesproget kan angives her. Denne indstilling træder først i kraft, når Feathercoin genstartes.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting academiccoin.</source>
+        <translation>Brugergrænsefladesproget kan angives her. Denne indstilling træder først i kraft, når academiccoin genstartes.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -940,12 +940,12 @@ Adresse: %4
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Vælg den standard underopdelingsenhed, som skal vises i brugergrænsefladen og ved afsendelse af Feathercoins.</translation>
+        <translation>Vælg den standard underopdelingsenhed, som skal vises i brugergrænsefladen og ved afsendelse af academiccoins.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Feathercoin addresses in the transaction list or not.</source>
-        <translation>Afgør hvorvidt Feathercoin-adresser skal vises i transaktionslisten eller ej.</translation>
+        <source>Whether to show academiccoin addresses in the transaction list or not.</source>
+        <translation>Afgør hvorvidt academiccoin-adresser skal vises i transaktionslisten eller ej.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Adresse: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Feathercoin.</source>
-        <translation>Denne indstilling træder i kraft, efter Feathercoin genstartes.</translation>
+        <source>This setting will take effect after restarting academiccoin.</source>
+        <translation>Denne indstilling træder i kraft, efter academiccoin genstartes.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Adresse: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Feathercoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den viste information kan være forældet. Din tegnebog synkroniserer automatisk med Feathercoin-netværket, når en forbindelse etableres, men denne proces er ikke gennemført endnu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the academiccoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den viste information kan være forældet. Din tegnebog synkroniserer automatisk med academiccoin-netværket, når en forbindelse etableres, men denne proces er ikke gennemført endnu.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1069,8 +1069,8 @@ Adresse: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start Feathercoin: click-to-pay handler</source>
-        <translation>Kan ikke starte Feathercoin: click-to-pay-håndtering</translation>
+        <source>Cannot start academiccoin: click-to-pay handler</source>
+        <translation>Kan ikke starte academiccoin: click-to-pay-håndtering</translation>
     </message>
 </context>
 <context>
@@ -1219,8 +1219,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Feathercoin-Qt help message to get a list with possible Feathercoin command-line options.</source>
-        <translation>Vis Feathercoin-Qt-hjælpebeskeden for at få en liste over de tilgængelige Feathercoin-kommandolinjeindstillinger.</translation>
+        <source>Show the academiccoin-Qt help message to get a list with possible academiccoin command-line options.</source>
+        <translation>Vis academiccoin-Qt-hjælpebeskeden for at få en liste over de tilgængelige academiccoin-kommandolinjeindstillinger.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Adresse: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Feathercoin - Debug window</source>
-        <translation>Feathercoin - Fejlsøgningsvindue</translation>
+        <source>academiccoin - Debug window</source>
+        <translation>academiccoin - Fejlsøgningsvindue</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Feathercoin Core</source>
-        <translation>Feathercoin Core</translation>
+        <source>academiccoin Core</source>
+        <translation>academiccoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1254,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Feathercoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn Feathercoin-fejlsøgningslogfilen fra det nuværende datakatalog. Dette kan tage nogle få sekunder for en store logfiler.</translation>
+        <source>Open the academiccoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åbn academiccoin-fejlsøgningslogfilen fra det nuværende datakatalog. Dette kan tage nogle få sekunder for en store logfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1264,8 @@ Adresse: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Feathercoin RPC console.</source>
-        <translation>Velkommen til Feathercoin RPC-konsollen</translation>
+        <source>Welcome to the academiccoin RPC console.</source>
+        <translation>Velkommen til academiccoin RPC-konsollen</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1290,7 +1290,7 @@ Adresse: %4
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Send Feathercoins</translation>
+        <translation>Send academiccoins</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1340,7 +1340,7 @@ Adresse: %4
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Bekræft afsendelse af Feathercoins</translation>
+        <translation>Bekræft afsendelse af academiccoins</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1385,7 +1385,7 @@ Adresse: %4
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Fejl: Transaktionen blev afvist. Dette kan ske, hvis nogle af dine Feathercoins i din tegnebog allerede er brugt, som hvis du brugte en kopi af wallet.dat og dine Feathercoins er blevet brugt i kopien, men ikke er markeret som brugt her.</translation>
+        <translation>Fejl: Transaktionen blev afvist. Dette kan ske, hvis nogle af dine academiccoins i din tegnebog allerede er brugt, som hvis du brugte en kopi af wallet.dat og dine academiccoins er blevet brugt i kopien, men ikke er markeret som brugt her.</translation>
     </message>
 </context>
 <context>
@@ -1408,7 +1408,7 @@ Adresse: %4
     <message>
         <location line="+34"/>
         <source>The address to send the payment to (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Feathercoin-adressen som betalingen skal sendes til (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>academiccoin-adressen som betalingen skal sendes til (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -1448,8 +1448,8 @@ Adresse: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Feathercoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Indtast en Feathercoin-adresse (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a academiccoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Indtast en academiccoin-adresse (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1467,12 +1467,12 @@ Adresse: %4
     <message>
         <location line="+6"/>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Du kan underskrive beskeder med dine Feathercoin-adresser for at bevise, at de tilhører dig. Pas på ikke at underskrive noget vagt, da phisingangreb kan narre dig til at overdrage din identitet. Underskriv kun fuldt detaljerede udsagn, du er enig i.</translation>
+        <translation>Du kan underskrive beskeder med dine academiccoin-adresser for at bevise, at de tilhører dig. Pas på ikke at underskrive noget vagt, da phisingangreb kan narre dig til at overdrage din identitet. Underskriv kun fuldt detaljerede udsagn, du er enig i.</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Feathercoin-adressen som beskeden skal underskrives med (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>academiccoin-adressen som beskeden skal underskrives med (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1513,8 +1513,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Feathercoin address</source>
-        <translation>Underskriv denne besked for at bevise, at Feathercoin-adressen tilhører dig</translation>
+        <source>Sign the message to prove you own this academiccoin address</source>
+        <translation>Underskriv denne besked for at bevise, at academiccoin-adressen tilhører dig</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1545,12 +1545,12 @@ Adresse: %4
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Feathercoin-adressen som beskeden er underskrevet med (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>academiccoin-adressen som beskeden er underskrevet med (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Feathercoin address</source>
-        <translation>Efterprøv beskeden for at sikre, at den er underskrevet med den angivne Feathercoin-adresse</translation>
+        <source>Verify the message to ensure it was signed with the specified academiccoin address</source>
+        <translation>Efterprøv beskeden for at sikre, at den er underskrevet med den angivne academiccoin-adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Adresse: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Feathercoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Indtast en Feathercoin-adresse (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a academiccoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Indtast en academiccoin-adresse (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Feathercoin signature</source>
-        <translation>Indtast Feathercoin-underskriften</translation>
+        <source>Enter academiccoin signature</source>
+        <translation>Indtast academiccoin-underskriften</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Adresse: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Feathercoin developers</source>
-        <translation>Feathercoin-udviklerne</translation>
+        <source>The academiccoin developers</source>
+        <translation>academiccoin-udviklerne</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1784,7 +1784,7 @@ Adresse: %4
     <message>
         <location line="+3"/>
         <source>Generated coins must mature 120 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Genererede Feathercoins skal vente 120 blokke, før de kan blive brugt. Da du genererede denne blok, blev den transmitteret til netværket for at blive føjet til blokkæden. Hvis det mislykkes at komme ind i kæden, vil den skifte til &quot;ikke godkendt&quot; og ikke blive kunne bruges. Dette kan lejlighedsvis ske, hvis en anden knude genererer en blok inden for få sekunder af din.</translation>
+        <translation>Genererede academiccoins skal vente 120 blokke, før de kan blive brugt. Da du genererede denne blok, blev den transmitteret til netværket for at blive føjet til blokkæden. Hvis det mislykkes at komme ind i kæden, vil den skifte til &quot;ikke godkendt&quot; og ikke blive kunne bruges. Dette kan lejlighedsvis ske, hvis en anden knude genererer en blok inden for få sekunder af din.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2137,7 +2137,7 @@ Adresse: %4
     <message>
         <location filename="../walletmodel.cpp" line="+193"/>
         <source>Send Coins</source>
-        <translation>Send Feathercoins</translation>
+        <translation>Send academiccoins</translation>
     </message>
 </context>
 <context>
@@ -2187,8 +2187,8 @@ Adresse: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Feathercoin version</source>
-        <translation>Feathercoin-version</translation>
+        <source>academiccoin version</source>
+        <translation>academiccoin-version</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2197,8 +2197,8 @@ Adresse: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or Feathercoind</source>
-        <translation>Send kommando til -server eller Feathercoind</translation>
+        <source>Send command to -server or academiccoind</source>
+        <translation>Send kommando til -server eller academiccoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,13 +2217,13 @@ Adresse: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: Feathercoin.conf)</source>
-        <translation>Angiv konfigurationsfil (standard: Feathercoin.conf)</translation>
+        <source>Specify configuration file (default: academiccoin.conf)</source>
+        <translation>Angiv konfigurationsfil (standard: academiccoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: Feathercoind.pid)</source>
-        <translation>Angiv pid-fil (default: Feathercoind.pid)</translation>
+        <source>Specify pid file (default: academiccoind.pid)</source>
+        <translation>Angiv pid-fil (default: academiccoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2300,24 +2300,24 @@ Adresse: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Feathercoinrpc
+rpcuser=academiccoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Feathercoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;academiccoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, du skal angive en RPC-adgangskode i konfigurationsfilen:
 %s
 Det anbefales, at du bruger nedenstående, tilfældige adgangskode:
-rpcuser=Feathercoinrpc
+rpcuser=academiccoinrpc
 rpcpassword=%s
 (du behøver ikke huske denne adgangskode)
 Brugernavnet og adgangskode MÅ IKKE være det samme.
 Hvis filen ikke eksisterer, opret den og giv ingen andre end ejeren læserettighed.
 Det anbefales også at angive alertnotify, så du påmindes om problemer;
-f.eks.: alertnotify=echo %%s | mail -s &quot;Feathercoin Alert&quot; admin@foo.com
+f.eks.: alertnotify=echo %%s | mail -s &quot;academiccoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2332,18 +2332,18 @@ f.eks.: alertnotify=echo %%s | mail -s &quot;Feathercoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Feathercoin is probably already running.</source>
-        <translation>Kan ikke opnå lås på datakatalog %s. Feathercoin er sandsynligvis allerede startet.</translation>
+        <source>Cannot obtain a lock on data directory %s. academiccoin is probably already running.</source>
+        <translation>Kan ikke opnå lås på datakatalog %s. academiccoin er sandsynligvis allerede startet.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Error: The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Fejl: Transaktionen blev afvist. Dette kan ske, hvis nogle af dine Feathercoins i din tegnebog allerede er brugt, som hvis du brugte en kopi af wallet.dat og dine Feathercoins er blevet brugt i kopien, men ikke er markeret som brugt her.</translation>
+        <translation>Fejl: Transaktionen blev afvist. Dette kan ske, hvis nogle af dine academiccoins i din tegnebog allerede er brugt, som hvis du brugte en kopi af wallet.dat og dine academiccoins er blevet brugt i kopien, men ikke er markeret som brugt her.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds!</source>
-        <translation>Fejl: Denne transaktion kræver et transaktionsgebyr på minimum %s pga. dens størrelse, kompleksitet eller anvendelse af nyligt modtagne Feathercoins!</translation>
+        <translation>Fejl: Denne transaktion kræver et transaktionsgebyr på minimum %s pga. dens størrelse, kompleksitet eller anvendelse af nyligt modtagne academiccoins!</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,8 +2377,8 @@ f.eks.: alertnotify=echo %%s | mail -s &quot;Feathercoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Feathercoin will not work properly.</source>
-        <translation>Advarsel: Undersøg venligst, at din computers dato og klokkeslæt er korrekt indstillet! Hvis der er fejl i disse, vil Feathercoin ikke fungere korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong academiccoin will not work properly.</source>
+        <translation>Advarsel: Undersøg venligst, at din computers dato og klokkeslæt er korrekt indstillet! Hvis der er fejl i disse, vil academiccoin ikke fungere korrekt.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2498,7 +2498,7 @@ f.eks.: alertnotify=echo %%s | mail -s &quot;Feathercoin Alert&quot; admin@foo.c
     <message>
         <location line="+1"/>
         <source>Failed to write to coin database</source>
-        <translation>Skrivning af Feathercoin-database mislykkedes</translation>
+        <translation>Skrivning af academiccoin-database mislykkedes</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2518,7 +2518,7 @@ f.eks.: alertnotify=echo %%s | mail -s &quot;Feathercoin Alert&quot; admin@foo.c
     <message>
         <location line="+1"/>
         <source>Generate coins (default: 0)</source>
-        <translation>Generer Feathercoins (standard: 0)</translation>
+        <translation>Generer academiccoins (standard: 0)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2627,8 +2627,8 @@ f.eks.: alertnotify=echo %%s | mail -s &quot;Feathercoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Feathercoin Wiki for SSL setup instructions)</source>
-        <translation>SSL-indstillinger: (se Feathercoin Wiki for SSL-opsætningsinstruktioner)</translation>
+        <source>SSL options: (see the academiccoin Wiki for SSL setup instructions)</source>
+        <translation>SSL-indstillinger: (se academiccoin Wiki for SSL-opsætningsinstruktioner)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ f.eks.: alertnotify=echo %%s | mail -s &quot;Feathercoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Feathercoin</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Tegnebog kræver en nyere version af Feathercoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of academiccoin</source>
+        <translation>Fejl ved indlæsning af wallet.dat: Tegnebog kræver en nyere version af academiccoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Feathercoin to complete</source>
-        <translation>Det var nødvendigt at genskrive tegnebogen: genstart Feathercoin for at gennemføre</translation>
+        <source>Wallet needed to be rewritten: restart academiccoin to complete</source>
+        <translation>Det var nødvendigt at genskrive tegnebogen: genstart academiccoin for at gennemføre</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ f.eks.: alertnotify=echo %%s | mail -s &quot;Feathercoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Feathercoin is probably already running.</source>
-        <translation>Kunne ikke tildele %s på denne computer. Feathercoin kører sikkert allerede.</translation>
+        <source>Unable to bind to %s on this computer. academiccoin is probably already running.</source>
+        <translation>Kunne ikke tildele %s på denne computer. academiccoin kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="+64"/>

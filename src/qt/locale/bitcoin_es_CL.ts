@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Feathercoin</source>
-        <translation>Sobre Feathercoin</translation>
+        <source>About academiccoin</source>
+        <translation>Sobre academiccoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Feathercoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Feathercoin&lt;/b&gt; - versión </translation>
+        <source>&lt;b&gt;academiccoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;academiccoin&lt;/b&gt; - versión </translation>
     </message>
     <message>
         <location line="+57"/>
@@ -37,7 +37,7 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location line="+0"/>
-        <source>The Feathercoin developers</source>
+        <source>The academiccoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -70,8 +70,8 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Feathercoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son tus direcciones Feathercoin para recibir pagos. Puedes utilizar una diferente por cada persona emisora para saber quien te está pagando.</translation>
+        <source>These are your academiccoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estas son tus direcciones academiccoin para recibir pagos. Puedes utilizar una diferente por cada persona emisora para saber quien te está pagando.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -85,7 +85,7 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Feathercoin address</source>
+        <source>Sign a message to prove you own a academiccoin address</source>
         <translation>Firmar un mensaje para provar que usted es dueño de esta dirección</translation>
     </message>
     <message>
@@ -110,7 +110,7 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Feathercoin address</source>
+        <source>Verify a message to ensure it was signed with a specified academiccoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -125,7 +125,7 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Feathercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your academiccoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -278,8 +278,8 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location line="-56"/>
-        <source>Feathercoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Feathercoins from being stolen by malware infecting your computer.</source>
-        <translation>Feathercoin se cerrará para finalizar el proceso de encriptación. Recuerde que encriptar su billetera no protegera completatamente sus Feathercoins de ser robados por malware que infecte su computador</translation>
+        <source>academiccoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your academiccoins from being stolen by malware infecting your computer.</source>
+        <translation>academiccoin se cerrará para finalizar el proceso de encriptación. Recuerde que encriptar su billetera no protegera completatamente sus academiccoins de ser robados por malware que infecte su computador</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Feathercoin</source>
-        <translation>Muestra información acerca de Feathercoin</translation>
+        <source>Show information about academiccoin</source>
+        <translation>Muestra información acerca de academiccoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Feathercoin address</source>
-        <translation>Enviar monedas a una dirección Feathercoin</translation>
+        <source>Send coins to a academiccoin address</source>
+        <translation>Enviar monedas a una dirección academiccoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Feathercoin</source>
-        <translation>Modifica las opciones de configuración de Feathercoin</translation>
+        <source>Modify configuration options for academiccoin</source>
+        <translation>Modifica las opciones de configuración de academiccoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -458,8 +458,8 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Feathercoin</source>
-        <translation>Feathercoin</translation>
+        <source>academiccoin</source>
+        <translation>academiccoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -483,8 +483,8 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Feathercoin</source>
-        <translation>&amp;Sobre Feathercoin</translation>
+        <source>&amp;About academiccoin</source>
+        <translation>&amp;Sobre academiccoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -503,12 +503,12 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Feathercoin addresses to prove you own them</source>
+        <source>Sign messages with your academiccoin addresses to prove you own them</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Feathercoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified academiccoin addresses</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -539,13 +539,13 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location line="+47"/>
-        <source>Feathercoin client</source>
-        <translation>Cliente Feathercoin</translation>
+        <source>academiccoin client</source>
+        <translation>Cliente academiccoin</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Feathercoin network</source>
-        <translation><numerusform>%n conexión activa hacia la red Feathercoin</numerusform><numerusform>%n conexiones activas hacia la red Feathercoin</numerusform></translation>
+        <source>%n active connection(s) to academiccoin network</source>
+        <translation><numerusform>%n conexión activa hacia la red academiccoin</numerusform><numerusform>%n conexiones activas hacia la red academiccoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -658,7 +658,7 @@ Dirección: %4</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Feathercoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid academiccoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -673,7 +673,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Feathercoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. academiccoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -739,8 +739,8 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Feathercoin address.</source>
-        <translation>La dirección introducida &quot;%1&quot; no es una dirección Feathercoin valida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid academiccoin address.</source>
+        <translation>La dirección introducida &quot;%1&quot; no es una dirección academiccoin valida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -758,7 +758,7 @@ Dirección: %4</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Feathercoin-Qt</source>
+        <source>academiccoin-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -822,13 +822,13 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Feathercoin after logging in to the system.</source>
-        <translation>Inicia Feathercoin automáticamente despues de encender el computador</translation>
+        <source>Automatically start academiccoin after logging in to the system.</source>
+        <translation>Inicia academiccoin automáticamente despues de encender el computador</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Feathercoin on system login</source>
-        <translation>&amp;Inicia Feathercoin al iniciar el sistema</translation>
+        <source>&amp;Start academiccoin on system login</source>
+        <translation>&amp;Inicia academiccoin al iniciar el sistema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -847,8 +847,8 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Feathercoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abre automáticamente el puerto del cliente Feathercoin en el router. Esto funciona solo cuando tu router es compatible con UPnP y está habilitado.</translation>
+        <source>Automatically open the academiccoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abre automáticamente el puerto del cliente academiccoin en el router. Esto funciona solo cuando tu router es compatible con UPnP y está habilitado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -857,8 +857,8 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Feathercoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecta a la red Feathercoin a través de un proxy SOCKS (ej. cuando te conectas por la red Tor)</translation>
+        <source>Connect to the academiccoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecta a la red academiccoin a través de un proxy SOCKS (ej. cuando te conectas por la red Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -932,7 +932,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Feathercoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting academiccoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -947,7 +947,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Feathercoin addresses in the transaction list or not.</source>
+        <source>Whether to show academiccoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -999,7 +999,7 @@ Dirección: %4</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Feathercoin.</source>
+        <source>This setting will take effect after restarting academiccoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1018,7 +1018,7 @@ Dirección: %4</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Feathercoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the academiccoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1072,7 +1072,7 @@ Dirección: %4</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start Feathercoin: click-to-pay handler</source>
+        <source>Cannot start academiccoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1222,7 +1222,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Feathercoin-Qt help message to get a list with possible Feathercoin command-line options.</source>
+        <source>Show the academiccoin-Qt help message to get a list with possible academiccoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1242,12 +1242,12 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Feathercoin - Debug window</source>
+        <source>academiccoin - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>Feathercoin Core</source>
+        <source>academiccoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1257,7 +1257,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Feathercoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the academiccoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1267,7 +1267,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Feathercoin RPC console.</source>
+        <source>Welcome to the academiccoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1451,8 +1451,8 @@ Dirección: %4</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Feathercoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduce una dirección Feathercoin (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a academiccoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduce una dirección academiccoin (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1475,7 +1475,7 @@ Dirección: %4</translation>
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduce una dirección Feathercoin (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Introduce una dirección academiccoin (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1516,7 +1516,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Feathercoin address</source>
+        <source>Sign the message to prove you own this academiccoin address</source>
         <translation>Firmar un mensjage para probar que usted es dueño de esta dirección</translation>
     </message>
     <message>
@@ -1548,11 +1548,11 @@ Dirección: %4</translation>
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduce una dirección Feathercoin (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Introduce una dirección academiccoin (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Feathercoin address</source>
+        <source>Verify the message to ensure it was signed with the specified academiccoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1568,8 +1568,8 @@ Dirección: %4</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Feathercoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduce una dirección Feathercoin (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a academiccoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduce una dirección academiccoin (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1578,7 +1578,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Feathercoin signature</source>
+        <source>Enter academiccoin signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1652,7 +1652,7 @@ Dirección: %4</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Feathercoin developers</source>
+        <source>The academiccoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2190,8 +2190,8 @@ Dirección: %4</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Feathercoin version</source>
-        <translation>Versión Feathercoin</translation>
+        <source>academiccoin version</source>
+        <translation>Versión academiccoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2200,8 +2200,8 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or Feathercoind</source>
-        <translation>Envia comando a Feathercoin lanzado con -server u Feathercoind
+        <source>Send command to -server or academiccoind</source>
+        <translation>Envia comando a academiccoin lanzado con -server u academiccoind
 </translation>
     </message>
     <message>
@@ -2224,14 +2224,14 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: Feathercoin.conf)</source>
-        <translation>Especifica archivo de configuración (predeterminado: Feathercoin.conf)
+        <source>Specify configuration file (default: academiccoin.conf)</source>
+        <translation>Especifica archivo de configuración (predeterminado: academiccoin.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: Feathercoind.pid)</source>
-        <translation>Especifica archivo pid (predeterminado: Feathercoin.pid)
+        <source>Specify pid file (default: academiccoind.pid)</source>
+        <translation>Especifica archivo pid (predeterminado: academiccoin.pid)
 </translation>
     </message>
     <message>
@@ -2313,13 +2313,13 @@ Dirección: %4</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Feathercoinrpc
+rpcuser=academiccoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Feathercoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;academiccoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2335,7 +2335,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Feathercoin Alert&quot; admin@
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Feathercoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. academiccoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2380,8 +2380,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Feathercoin Alert&quot; admin@
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Feathercoin will not work properly.</source>
-        <translation>Precaución: Por favor revise que la fecha y hora de tu ordenador son correctas. Si tu reloj está mal configurado Feathercoin no funcionará correctamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong academiccoin will not work properly.</source>
+        <translation>Precaución: Por favor revise que la fecha y hora de tu ordenador son correctas. Si tu reloj está mal configurado academiccoin no funcionará correctamente.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2631,8 +2631,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Feathercoin Alert&quot; admin@
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Feathercoin Wiki for SSL setup instructions)</source>
-        <translation>Opciones SSL: (ver la Feathercoin Wiki para instrucciones de configuración SSL)</translation>
+        <source>SSL options: (see the academiccoin Wiki for SSL setup instructions)</source>
+        <translation>Opciones SSL: (ver la academiccoin Wiki para instrucciones de configuración SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2833,13 +2833,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Feathercoin Alert&quot; admin@
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Feathercoin</source>
-        <translation>Error cargando wallet.dat: Billetera necesita una vercion reciente de Feathercoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of academiccoin</source>
+        <translation>Error cargando wallet.dat: Billetera necesita una vercion reciente de academiccoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Feathercoin to complete</source>
-        <translation>La billetera necesita ser reescrita: reinicie Feathercoin para completar</translation>
+        <source>Wallet needed to be rewritten: restart academiccoin to complete</source>
+        <translation>La billetera necesita ser reescrita: reinicie academiccoin para completar</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2898,8 +2898,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Feathercoin Alert&quot; admin@
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Feathercoin is probably already running.</source>
-        <translation>No es posible escuchar en el %s en este ordenador. Probablemente Feathercoin ya se está ejecutando.</translation>
+        <source>Unable to bind to %s on this computer. academiccoin is probably already running.</source>
+        <translation>No es posible escuchar en el %s en este ordenador. Probablemente academiccoin ya se está ejecutando.</translation>
     </message>
     <message>
         <location line="+64"/>

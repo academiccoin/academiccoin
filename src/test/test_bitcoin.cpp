@@ -1,4 +1,4 @@
-#define BOOST_TEST_MODULE Feathercoin Test Suite
+#define BOOST_TEST_MODULE academiccoin Test Suite
 #include <boost/test/unit_test.hpp>
 #include <boost/filesystem.hpp>
 

@@ -1,9 +1,9 @@
-Building Feathercoin
+Building academiccoin
 
-See doc/readme-qt.rst for instructions on building Feathercoin-Qt,
+See doc/readme-qt.rst for instructions on building academiccoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Feathercoin.
+implementation of academiccoin.
 
-See doc/build-*.txt for instructions on building feathercoind,
+See doc/build-*.txt for instructions on building academiccoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Feathercoin.
+implementation of academiccoin.

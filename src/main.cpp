@@ -2,7 +2,7 @@
 // Copyright (c) 2009-2012 The Bitcoin developers
 // Copyright (c) 2011-2013 PPCoin developers
 // Copyright (c) 2013 Primecoin developers
-// Copyright (c) 2013 Feathercoin developers
+// Copyright (c) 2013 academiccoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -40,7 +40,7 @@ int nBaseMaturity = BASE_MATURITY;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
 uint256 hashGenesisBlock("0x12a765e31ffd4059bada1e25190f6e98c99d9714d334efa41a195a7e7e04bfe2");
-static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20); // Feathercoin: starting difficulty is 1 / 2^12
+static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20); // academiccoin: starting difficulty is 1 / 2^12
 /* The difficulty after switching to NeoScrypt (0.015625) */
 static CBigNum bnNeoScryptSwitch(~uint256(0) >> 26);
 CBlockIndex* pindexGenesisBlock = NULL;
@@ -74,7 +74,7 @@ map<uint256, set<uint256> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "Feathercoin Signed Message:\n";
+const string strMessageMagic = "academiccoin Signed Message:\n";
 
 double dHashesPerSec = 0.0;
 int64 nHPSTimerStart = 0;
@@ -365,7 +365,7 @@ unsigned int LimitOrphanTxSize(unsigned int nMaxOrphans)
 
 bool CTxOut::IsDust() const
 {
-    // Feathercoin: IsDust() detection disabled, allows any valid dust to be relayed.
+    // academiccoin: IsDust() detection disabled, allows any valid dust to be relayed.
     // The fees imposed on each dust txo is considered sufficient spam deterrant. 
     return false;
 }
@@ -622,7 +622,7 @@ int64 CTransaction::GetMinFee(unsigned int nBlockSize, bool fAllowFree,
             nMinFee = 0;
     }
 
-    // Feathercoin
+    // academiccoin
     // To limit dust spam, add nBaseFee for each output less than DUST_SOFT_LIMIT
     BOOST_FOREACH(const CTxOut& txout, vout)
         if (txout.nValue < DUST_SOFT_LIMIT)
@@ -2340,7 +2340,7 @@ bool CBlock::AcceptBlock(CValidationState &state, CDiskBlockPos *dbp)
 
 bool CBlockIndex::IsSuperMajority(int minVersion, const CBlockIndex* pstart, unsigned int nRequired, unsigned int nToCheck)
 {
-    // Feathercoin: temporarily disable v2 block lockin until we are ready for v2 transition
+    // academiccoin: temporarily disable v2 block lockin until we are ready for v2 transition
     return false;
     unsigned int nFound = 0;
     for (unsigned int i = 0; i < nToCheck && nFound < nRequired && pstart != NULL; i++)
@@ -2376,7 +2376,7 @@ bool ProcessBlock(CValidationState &state, CNode* pfrom, CBlock* pblock, CDiskBl
 
         // Here was some code to verify block difficulty upon block and checkpoint
         // time difference which had never worked well in general and was broken
-        // across the hard forks for Feathercoin in particular
+        // across the hard forks for academiccoin in particular
 
     }
 
@@ -2869,7 +2869,7 @@ bool InitBlockIndex() {
         //   vMerkleTree: 97ddfbbae6
 
         // Genesis block
-        const char* pszTimestamp = "NY Times 05/Oct/2011 Steve Jobs, Apple’s Visionary, Dies at 56";
+        const char* pszTimestamp = "NY Times 05/Oct/2011 Steve Jobs, Apple???s Visionary, Dies at 56";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
@@ -3191,7 +3191,7 @@ bool static AlreadyHave(const CInv& inv)
 // The message start string is designed to be unlikely to occur in normal data.
 // The characters are rarely used upper ASCII, not valid as UTF-8, and produce
 // a large 4-byte int at any alignment.
-unsigned char pchMessageStart[4] = { 0xfb, 0xc0, 0xb6, 0xdb }; // Feathercoin: increase each by adding 2 to bitcoin's value.
+unsigned char pchMessageStart[4] = { 0xfb, 0xc0, 0xb6, 0xdb }; // academiccoin: increase each by adding 2 to bitcoin's value.
 
 
 void static ProcessGetData(CNode* pfrom)
@@ -4241,7 +4241,7 @@ bool SendMessages(CNode* pto, bool fSendTrickle)
 
 //////////////////////////////////////////////////////////////////////////////
 //
-// FeathercoinMiner
+// academiccoinMiner
 //
 
 static const unsigned int pSHA256InitState[8] =
@@ -4610,7 +4610,7 @@ bool CheckWork(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
         return false;
 
     //// debug print
-    printf("FeathercoinMiner:\n");
+    printf("academiccoinMiner:\n");
     printf("proof-of-work found  \n  hash: %s  \ntarget: %s\n", hash.GetHex().c_str(), hashTarget.GetHex().c_str());
     pblock->print();
     printf("generated %s\n", FormatMoney(pblock->vtx[0].vout[0].nValue).c_str());
@@ -4619,7 +4619,7 @@ bool CheckWork(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
     {
         LOCK(cs_main);
         if (pblock->hashPrevBlock != hashBestChain)
-            return error("FeathercoinMiner : generated block is stale");
+            return error("academiccoinMiner : generated block is stale");
 
         // Remove key from key pool
         reservekey.KeepKey();
@@ -4633,15 +4633,15 @@ bool CheckWork(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
         // Process this block the same as if we had received it from another node
         CValidationState state;
         if (!ProcessBlock(state, NULL, pblock))
-            return error("FeathercoinMiner : ProcessBlock, block not accepted");
+            return error("academiccoinMiner : ProcessBlock, block not accepted");
     }
 
     return true;
 }
 
-void static FeathercoinMiner(CWallet *pwallet)
+void static academiccoinMiner(CWallet *pwallet)
 {
-    printf("FeathercoinMiner started\n");
+    printf("academiccoinMiner started\n");
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
     RenameThread("feathercoin-miner");
 
@@ -4667,7 +4667,7 @@ void static FeathercoinMiner(CWallet *pwallet)
         CBlock *pblock = &pblocktemplate->block;
         IncrementExtraNonce(pblock, pindexPrev, nExtraNonce);
 
-        printf("Running FeathercoinMiner with %"PRIszu" transactions in block (%u bytes)\n", pblock->vtx.size(),
+        printf("Running academiccoinMiner with %"PRIszu" transactions in block (%u bytes)\n", pblock->vtx.size(),
                ::GetSerializeSize(*pblock, SER_NETWORK, PROTOCOL_VERSION));
 
         //
@@ -4748,7 +4748,7 @@ void static FeathercoinMiner(CWallet *pwallet)
     } }
     catch (boost::thread_interrupted)
     {
-        printf("FeathercoinMiner terminated\n");
+        printf("academiccoinMiner terminated\n");
         throw;
     }
 }
@@ -4773,7 +4773,7 @@ void GenerateBitcoins(bool fGenerate, CWallet* pwallet)
 
     minerThreads = new boost::thread_group();
     for (int i = 0; i < nThreads; i++)
-        minerThreads->create_thread(boost::bind(&FeathercoinMiner, pwallet));
+        minerThreads->create_thread(boost::bind(&academiccoinMiner, pwallet));
 }
 
 // Amount compression:

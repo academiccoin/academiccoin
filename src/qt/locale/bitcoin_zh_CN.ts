@@ -4,12 +4,12 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Feathercoin</source>
+        <source>About academiccoin</source>
         <translation>关于羽毛币</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Feathercoin&lt;/b&gt; version</source>
+        <source>&lt;b&gt;academiccoin&lt;/b&gt; version</source>
         <translation>&lt;b&gt;羽毛币&lt;/b&gt;版本</translation>
     </message>
     <message>
@@ -34,8 +34,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Feathercoin developers</source>
-        <translation>Feathercoin-qt 客户端开发团队</translation>
+        <source>The academiccoin developers</source>
+        <translation>academiccoin-qt 客户端开发团队</translation>
     </message>
 </context>
 <context>
@@ -67,7 +67,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Feathercoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your academiccoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>这是您用来收款的羽毛币地址。为了标记不同的资金来源，建议为每个付款人设置不同的收款地址。</translation>
     </message>
     <message>
@@ -82,7 +82,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Feathercoin address</source>
+        <source>Sign a message to prove you own a academiccoin address</source>
         <translation>签名消息，证明这个地址属于您。</translation>
     </message>
     <message>
@@ -107,7 +107,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Feathercoin address</source>
+        <source>Verify a message to ensure it was signed with a specified academiccoin address</source>
         <translation>验证消息，确保消息是由指定的羽毛币地址签名过的。</translation>
     </message>
     <message>
@@ -122,7 +122,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Feathercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your academiccoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>这是您用来付款的羽毛币地址。在付款前，请务必检查付款金额和收款地址。</translation>
     </message>
     <message>
@@ -275,8 +275,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Feathercoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Feathercoins from being stolen by malware infecting your computer.</source>
-        <translation>Feathercoin 将关闭软件以完成加密过程。请您谨记：钱包加密并不是万能的，电脑被感染恶意软件，您的羽毛币还是有可能丢失。</translation>
+        <source>academiccoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your academiccoins from being stolen by malware infecting your computer.</source>
+        <translation>academiccoin 将关闭软件以完成加密过程。请您谨记：钱包加密并不是万能的，电脑被感染恶意软件，您的羽毛币还是有可能丢失。</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,7 +374,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Feathercoin</source>
+        <source>Show information about academiccoin</source>
         <translation>显示羽毛币的相关信息</translation>
     </message>
     <message>
@@ -419,12 +419,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Feathercoin address</source>
+        <source>Send coins to a academiccoin address</source>
         <translation>向一个羽毛币地址发送羽毛币</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Feathercoin</source>
+        <source>Modify configuration options for academiccoin</source>
         <translation>修改羽毛币配置</translation>
     </message>
     <message>
@@ -455,7 +455,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Feathercoin</source>
+        <source>academiccoin</source>
         <translation>羽毛币</translation>
     </message>
     <message>
@@ -480,7 +480,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Feathercoin</source>
+        <source>&amp;About academiccoin</source>
         <translation>&amp;关于羽毛币</translation>
     </message>
     <message>
@@ -500,12 +500,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Feathercoin addresses to prove you own them</source>
+        <source>Sign messages with your academiccoin addresses to prove you own them</source>
         <translation>用羽毛币地址关联的私钥为消息签名，以证明您拥有这个羽毛币地址</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Feathercoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified academiccoin addresses</source>
         <translation>校验消息，确保该消息是由指定的羽毛币地址所有者已经签名过的</translation>
     </message>
     <message>
@@ -536,12 +536,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Feathercoin client</source>
+        <source>academiccoin client</source>
         <translation>羽毛币客户端</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Feathercoin network</source>
+        <source>%n active connection(s) to academiccoin network</source>
         <translation><numerusform>到羽毛币网络的连接共有%n条</numerusform></translation>
     </message>
     <message>
@@ -656,7 +656,7 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Feathercoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid academiccoin address or malformed URI parameters.</source>
         <translation>URI无法解析！原因可能是羽毛币地址不正确，或者URI参数错误。</translation>
     </message>
     <message>
@@ -671,7 +671,7 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Feathercoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. academiccoin can no longer continue safely and will quit.</source>
         <translation>出现了致命错误。羽毛币无法继续安全运行，即将退出。</translation>
     </message>
 </context>
@@ -737,7 +737,7 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Feathercoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid academiccoin address.</source>
         <translation>您输入的 &quot;%1&quot; 不是合法的羽毛币地址.</translation>
     </message>
     <message>
@@ -756,8 +756,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Feathercoin-Qt</source>
-        <translation>Feathercoin-Qt</translation>
+        <source>academiccoin-Qt</source>
+        <translation>academiccoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -820,12 +820,12 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Feathercoin after logging in to the system.</source>
+        <source>Automatically start academiccoin after logging in to the system.</source>
         <translation>登录系统后自动开启羽毛币客户端</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Feathercoin on system login</source>
+        <source>&amp;Start academiccoin on system login</source>
         <translation>启动时&amp;运行</translation>
     </message>
     <message>
@@ -845,7 +845,7 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Feathercoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the academiccoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>自动在路由器中打开羽毛币端口。只有当您的路由器开启 UPnP 选项时此功能才有效。</translation>
     </message>
     <message>
@@ -855,7 +855,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Feathercoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the academiccoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>通过SOCKS代理服务器连接羽毛币网络(例如：通过Tor连接)</translation>
     </message>
     <message>
@@ -930,7 +930,7 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Feathercoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting academiccoin.</source>
         <translation>在这里设置用户界面的语言。设置将在客户端重启后生效。</translation>
     </message>
     <message>
@@ -945,7 +945,7 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Feathercoin addresses in the transaction list or not.</source>
+        <source>Whether to show academiccoin addresses in the transaction list or not.</source>
         <translation>是否需要在交易清单中显示羽毛币地址。</translation>
     </message>
     <message>
@@ -997,7 +997,7 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Feathercoin.</source>
+        <source>This setting will take effect after restarting academiccoin.</source>
         <translation>需要重启客户端软件才能生效。</translation>
     </message>
     <message>
@@ -1016,7 +1016,7 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Feathercoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the academiccoin network after a connection is established, but this process has not completed yet.</source>
         <translation>现在显示的消息可能会过期。在连接上羽毛币网络节点后，您的钱包将自动与网络同步，但是这个过程还没有完成.</translation>
     </message>
     <message>
@@ -1070,7 +1070,7 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start Feathercoin: click-to-pay handler</source>
+        <source>Cannot start academiccoin: click-to-pay handler</source>
         <translation>暂时无法启动羽毛币：点击支付功能</translation>
     </message>
 </context>
@@ -1220,8 +1220,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Feathercoin-Qt help message to get a list with possible Feathercoin command-line options.</source>
-        <translation>显示 Feathercoin-Qt 命令行选项帮助信息</translation>
+        <source>Show the academiccoin-Qt help message to get a list with possible academiccoin command-line options.</source>
+        <translation>显示 academiccoin-Qt 命令行选项帮助信息</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1240,12 +1240,12 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Feathercoin - Debug window</source>
+        <source>academiccoin - Debug window</source>
         <translation>羽毛币 - 调试窗口</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Feathercoin Core</source>
+        <source>academiccoin Core</source>
         <translation>羽毛币核心</translation>
     </message>
     <message>
@@ -1255,7 +1255,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Feathercoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the academiccoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>打开当前目录中的调试日志文件。日志文件大的话可能要等上几秒钟。</translation>
     </message>
     <message>
@@ -1265,7 +1265,7 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Feathercoin RPC console.</source>
+        <source>Welcome to the academiccoin RPC console.</source>
         <translation>欢迎来到 RPC 控制台.</translation>
     </message>
     <message>
@@ -1295,7 +1295,7 @@ Address: %4
     </message>
     <message>
         <location line="+10"/>
-        <source>Enter a Feathercoin address (e.g. 6nqmPL9tX4Uz3uQhbz8GrgLfXQNQEXstVu)</source>
+        <source>Enter a academiccoin address (e.g. 6nqmPL9tX4Uz3uQhbz8GrgLfXQNQEXstVu)</source>
         <translation>输入一个羽毛币地址</translation>
     </message>
     <message>
@@ -1817,7 +1817,7 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Feathercoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a academiccoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>请输入羽毛币地址 (例如: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
@@ -1882,7 +1882,7 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Feathercoin address</source>
+        <source>Sign the message to prove you own this academiccoin address</source>
         <translation>签名消息，证明这个地址属于您。</translation>
     </message>
     <message>
@@ -1918,7 +1918,7 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Feathercoin address</source>
+        <source>Verify the message to ensure it was signed with the specified academiccoin address</source>
         <translation>验证消息，确保消息是由指定的羽毛币地址签名过的。</translation>
     </message>
     <message>
@@ -1934,7 +1934,7 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Feathercoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a academiccoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>请输入羽毛币地址 (例如: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
@@ -1944,7 +1944,7 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Feathercoin signature</source>
+        <source>Enter academiccoin signature</source>
         <translation>输入羽毛币签名</translation>
     </message>
     <message>
@@ -2018,7 +2018,7 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Feathercoin developers</source>
+        <source>The academiccoin developers</source>
         <translation>羽毛币客户端开发团队</translation>
     </message>
     <message>
@@ -2556,7 +2556,7 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Feathercoin version</source>
+        <source>academiccoin version</source>
         <translation>羽毛币版本</translation>
     </message>
     <message>
@@ -2566,8 +2566,8 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or Feathercoind</source>
-        <translation>发送命令到服务器或者 Feathercoind
+        <source>Send command to -server or academiccoind</source>
+        <translation>发送命令到服务器或者 academiccoind
 </translation>
     </message>
     <message>
@@ -2590,14 +2590,14 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: Feathercoin.conf)</source>
-        <translation>指定配置文件 (默认为 Feathercoin.conf)
+        <source>Specify configuration file (default: academiccoin.conf)</source>
+        <translation>指定配置文件 (默认为 academiccoin.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: Feathercoind.pid)</source>
-        <translation>指定 pid 文件 (默认为 Feathercoind.pid)
+        <source>Specify pid file (default: academiccoind.pid)</source>
+        <translation>指定 pid 文件 (默认为 academiccoind.pid)
 </translation>
     </message>
     <message>
@@ -2680,24 +2680,24 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Feathercoinrpc
+rpcuser=academiccoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Feathercoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;academiccoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, 您必须在配置文件设置rpcpassword:
  %s
 建议您使用下面的随机密码:
-rpcuser=Feathercoinrpc
+rpcuser=academiccoinrpc
 rpcpassword=%s
 (您无需记住此密码)
 用户名和密码 必! 须! 不一样。
 如果配置文件不存在，请自行建立一个只有所有者拥有只读权限的文件。
 推荐您开启提示通知以便收到错误通知，
-像这样: alertnotify=echo %%s | mail -s &quot;Feathercoin Alert&quot; admin@foo.com
+像这样: alertnotify=echo %%s | mail -s &quot;academiccoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2712,7 +2712,7 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Feathercoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. academiccoin is probably already running.</source>
         <translation>无法给数据目录 %s 上锁。本软件可能已经在运行。</translation>
     </message>
     <message>
@@ -2757,7 +2757,7 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Feathercoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong academiccoin will not work properly.</source>
         <translation>警告：请检查电脑的日期时间设置是否正确！时间错误可能会导致羽毛币客户端运行异常。</translation>
     </message>
     <message>
@@ -3007,8 +3007,8 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Feathercoin Wiki for SSL setup instructions)</source>
-        <translation>SSL选项：(参见Feathercoin Wiki关于SSL设置栏目)</translation>
+        <source>SSL options: (see the academiccoin Wiki for SSL setup instructions)</source>
+        <translation>SSL选项：(参见academiccoin Wiki关于SSL设置栏目)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3206,13 +3206,13 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Feathercoin</source>
-        <translation>wallet.dat钱包文件加载错误：请升级到最新Feathercoin客户端</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of academiccoin</source>
+        <translation>wallet.dat钱包文件加载错误：请升级到最新academiccoin客户端</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Feathercoin to complete</source>
-        <translation>钱包文件需要重写：请退出并重新启动Feathercoin客户端</translation>
+        <source>Wallet needed to be rewritten: restart academiccoin to complete</source>
+        <translation>钱包文件需要重写：请退出并重新启动academiccoin客户端</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -3271,7 +3271,7 @@ rpcpassword=%s
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Feathercoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. academiccoin is probably already running.</source>
         <translation>无法在本机绑定 %s 端口，羽毛币客户端软件可能已经在运行。</translation>
     </message>
     <message>

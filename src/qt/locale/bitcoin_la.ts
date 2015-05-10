@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Feathercoin</source>
-        <translation>Informatio de Feathercoin</translation>
+        <source>About academiccoin</source>
+        <translation>Informatio de academiccoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Feathercoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Feathercoin&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;academiccoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;academiccoin&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -33,8 +33,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+0"/>
-        <source>The Feathercoin developers</source>
-        <translation>Feathercoin curatores</translation>
+        <source>The academiccoin developers</source>
+        <translation>academiccoin curatores</translation>
     </message>
 </context>
 <context>
@@ -66,8 +66,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Feathercoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Haec sunt inscriptiones Feathercoin tuae pro accipendo pensitationes.  Cupias variam ad quemque mittentem dare ut melius scias quem tibi pensare.</translation>
+        <source>These are your academiccoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Haec sunt inscriptiones academiccoin tuae pro accipendo pensitationes.  Cupias variam ad quemque mittentem dare ut melius scias quem tibi pensare.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -81,8 +81,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Feathercoin address</source>
-        <translation>Signa nuntium ut demonstres inscriptionem Feathercoin a te possessam esse</translation>
+        <source>Sign a message to prove you own a academiccoin address</source>
+        <translation>Signa nuntium ut demonstres inscriptionem academiccoin a te possessam esse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -106,8 +106,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Feathercoin address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specificata inscriptione Feathercoin</translation>
+        <source>Verify a message to ensure it was signed with a specified academiccoin address</source>
+        <translation>Verifica nuntium ut cures signatum esse cum specificata inscriptione academiccoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -121,7 +121,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Feathercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your academiccoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Hae sunt inscriptiones mittendi pensitationes.  Semper inspice quantitatem et inscriptionem accipiendi antequam nummos mittis.</translation>
     </message>
     <message>
@@ -274,8 +274,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-56"/>
-        <source>Feathercoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Feathercoins from being stolen by malware infecting your computer.</source>
-        <translation>Feathercoin iam desinet ut finiat actionem cifrandi.  Memento cassidile cifrare non posse cuncte curare ne tui nummi clepantur ab malis programatibus in tuo computatro.</translation>
+        <source>academiccoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your academiccoins from being stolen by malware infecting your computer.</source>
+        <translation>academiccoin iam desinet ut finiat actionem cifrandi.  Memento cassidile cifrare non posse cuncte curare ne tui nummi clepantur ab malis programatibus in tuo computatro.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -373,8 +373,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Feathercoin</source>
-        <translation>Monstra informationem de Feathercoin</translation>
+        <source>Show information about academiccoin</source>
+        <translation>Monstra informationem de academiccoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -418,13 +418,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Feathercoin address</source>
-        <translation>Mitte nummos ad inscriptionem Feathercoin</translation>
+        <source>Send coins to a academiccoin address</source>
+        <translation>Mitte nummos ad inscriptionem academiccoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Feathercoin</source>
-        <translation>Muta configurationis optiones pro Feathercoin</translation>
+        <source>Modify configuration options for academiccoin</source>
+        <translation>Muta configurationis optiones pro academiccoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -454,8 +454,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Feathercoin</source>
-        <translation>Feathercoin</translation>
+        <source>academiccoin</source>
+        <translation>academiccoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -479,8 +479,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Feathercoin</source>
-        <translation>&amp;Informatio de Feathercoin</translation>
+        <source>&amp;About academiccoin</source>
+        <translation>&amp;Informatio de academiccoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -499,13 +499,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Feathercoin addresses to prove you own them</source>
-        <translation>Signa nuntios cum tuis inscriptionibus Feathercoin ut demonstres te eas possidere</translation>
+        <source>Sign messages with your academiccoin addresses to prove you own them</source>
+        <translation>Signa nuntios cum tuis inscriptionibus academiccoin ut demonstres te eas possidere</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Feathercoin addresses</source>
-        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus Feathercoin</translation>
+        <source>Verify messages to ensure they were signed with specified academiccoin addresses</source>
+        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus academiccoin</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -535,13 +535,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+47"/>
-        <source>Feathercoin client</source>
-        <translation>Feathercoin cliens</translation>
+        <source>academiccoin client</source>
+        <translation>academiccoin cliens</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Feathercoin network</source>
-        <translation><numerusform>%n activa conexio ad rete Feathercoin</numerusform><numerusform>%n activae conexiones ad rete Feathercoin</numerusform></translation>
+        <source>%n active connection(s) to academiccoin network</source>
+        <translation><numerusform>%n activa conexio ad rete academiccoin</numerusform><numerusform>%n activae conexiones ad rete academiccoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -655,8 +655,8 @@ Inscriptio: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Feathercoin address or malformed URI parameters.</source>
-        <translation>URI intellegi non posse!  Huius causa possit inscriptionem Feathercoin non validam aut URI parametra maleformata.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid academiccoin address or malformed URI parameters.</source>
+        <translation>URI intellegi non posse!  Huius causa possit inscriptionem academiccoin non validam aut URI parametra maleformata.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -670,8 +670,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Feathercoin can no longer continue safely and will quit.</source>
-        <translation>Error fatalis accidit.  Feathercoin nondum pergere tute potest, et exibit.</translation>
+        <source>A fatal error occurred. academiccoin can no longer continue safely and will quit.</source>
+        <translation>Error fatalis accidit.  academiccoin nondum pergere tute potest, et exibit.</translation>
     </message>
 </context>
 <context>
@@ -736,8 +736,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Feathercoin address.</source>
-        <translation>Inscriptio inserta &quot;%1&quot; non valida inscriptio Feathercoin est.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid academiccoin address.</source>
+        <translation>Inscriptio inserta &quot;%1&quot; non valida inscriptio academiccoin est.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -755,8 +755,8 @@ Inscriptio: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Feathercoin-Qt</source>
-        <translation>Feathercoin-Qt</translation>
+        <source>academiccoin-Qt</source>
+        <translation>academiccoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -818,13 +818,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Feathercoin after logging in to the system.</source>
-        <translation>Pelle Feathercoin per se postquam in systema inire.</translation>
+        <source>Automatically start academiccoin after logging in to the system.</source>
+        <translation>Pelle academiccoin per se postquam in systema inire.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Feathercoin on system login</source>
-        <translation>&amp;Pelle Feathercoin cum inire systema</translation>
+        <source>&amp;Start academiccoin on system login</source>
+        <translation>&amp;Pelle academiccoin cum inire systema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -843,8 +843,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Feathercoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aperi per se portam clientis Feathercoin in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
+        <source>Automatically open the academiccoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Aperi per se portam clientis academiccoin in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -853,8 +853,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Feathercoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecte ad rete Feathercoin per SOCKS vicarium (e.g. quando conectens per Tor).</translation>
+        <source>Connect to the academiccoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecte ad rete academiccoin per SOCKS vicarium (e.g. quando conectens per Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -928,8 +928,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Feathercoin.</source>
-        <translation>Lingua monstranda utenti hic constitui potest.  Haec configuratio effectiva erit postquam Feathercoin iterum initiatum erit.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting academiccoin.</source>
+        <translation>Lingua monstranda utenti hic constitui potest.  Haec configuratio effectiva erit postquam academiccoin iterum initiatum erit.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -943,8 +943,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Feathercoin addresses in the transaction list or not.</source>
-        <translation>Num monstrare inscriptiones Feathercoin in enumeratione transactionum.</translation>
+        <source>Whether to show academiccoin addresses in the transaction list or not.</source>
+        <translation>Num monstrare inscriptiones academiccoin in enumeratione transactionum.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -995,8 +995,8 @@ Inscriptio: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Feathercoin.</source>
-        <translation>Haec configuratio effectiva erit postquam Feathercoin iterum initiatum erit.</translation>
+        <source>This setting will take effect after restarting academiccoin.</source>
+        <translation>Haec configuratio effectiva erit postquam academiccoin iterum initiatum erit.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1014,8 +1014,8 @@ Inscriptio: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Feathercoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete Feathercoin postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the academiccoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete academiccoin postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1068,8 +1068,8 @@ Inscriptio: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start Feathercoin: click-to-pay handler</source>
-        <translation>Feathercoin incipere non potest: cliccare-ad-pensandum handler</translation>
+        <source>Cannot start academiccoin: click-to-pay handler</source>
+        <translation>academiccoin incipere non potest: cliccare-ad-pensandum handler</translation>
     </message>
 </context>
 <context>
@@ -1218,8 +1218,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Feathercoin-Qt help message to get a list with possible Feathercoin command-line options.</source>
-        <translation>Monstra nuntium auxilii Feathercoin-Qt ut videas enumerationem possibilium optionum Feathercoin mandati initiantis.</translation>
+        <source>Show the academiccoin-Qt help message to get a list with possible academiccoin command-line options.</source>
+        <translation>Monstra nuntium auxilii academiccoin-Qt ut videas enumerationem possibilium optionum academiccoin mandati initiantis.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1238,13 +1238,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Feathercoin - Debug window</source>
-        <translation>Feathercoin - Fenestra debug</translation>
+        <source>academiccoin - Debug window</source>
+        <translation>academiccoin - Fenestra debug</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Feathercoin Core</source>
-        <translation>Feathercoin Nucleus</translation>
+        <source>academiccoin Core</source>
+        <translation>academiccoin Nucleus</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1253,8 +1253,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Feathercoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Aperi plicam catalogi de Feathercoin debug ex activo indice datorum.  Hoc possit pauca secunda pro plicis magnis catalogi.</translation>
+        <source>Open the academiccoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Aperi plicam catalogi de academiccoin debug ex activo indice datorum.  Hoc possit pauca secunda pro plicis magnis catalogi.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1263,8 +1263,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Feathercoin RPC console.</source>
-        <translation>Bene ventio in terminale RPC de Feathercoin.</translation>
+        <source>Welcome to the academiccoin RPC console.</source>
+        <translation>Bene ventio in terminale RPC de academiccoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1447,8 +1447,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Feathercoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Insero inscriptionem Feathercoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a academiccoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Insero inscriptionem academiccoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1512,8 +1512,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Feathercoin address</source>
-        <translation>Signa nuntium ut demonstres hanc inscriptionem Feathercoin a te possessa esse</translation>
+        <source>Sign the message to prove you own this academiccoin address</source>
+        <translation>Signa nuntium ut demonstres hanc inscriptionem academiccoin a te possessa esse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1548,8 +1548,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Feathercoin address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione Feathercoin</translation>
+        <source>Verify the message to ensure it was signed with the specified academiccoin address</source>
+        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione academiccoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1564,8 +1564,8 @@ Inscriptio: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Feathercoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Insere inscriptionem Feathercoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a academiccoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Insere inscriptionem academiccoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1574,8 +1574,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Feathercoin signature</source>
-        <translation>Insere signationem Feathercoin</translation>
+        <source>Enter academiccoin signature</source>
+        <translation>Insere signationem academiccoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1648,8 +1648,8 @@ Inscriptio: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Feathercoin developers</source>
-        <translation>Feathercoin curatores</translation>
+        <source>The academiccoin developers</source>
+        <translation>academiccoin curatores</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2186,8 +2186,8 @@ Inscriptio: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Feathercoin version</source>
-        <translation>Versio de Feathercoin</translation>
+        <source>academiccoin version</source>
+        <translation>Versio de academiccoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2196,8 +2196,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or Feathercoind</source>
-        <translation>Mitte mandatum ad -server vel Feathercoind</translation>
+        <source>Send command to -server or academiccoind</source>
+        <translation>Mitte mandatum ad -server vel academiccoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2216,13 +2216,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: Feathercoin.conf)</source>
-        <translation>Specifica configurationis plicam (praedefinitum: Feathercoin.conf)</translation>
+        <source>Specify configuration file (default: academiccoin.conf)</source>
+        <translation>Specifica configurationis plicam (praedefinitum: academiccoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: Feathercoind.pid)</source>
-        <translation>Specifica pid plicam (praedefinitum: Feathercoin.pid)</translation>
+        <source>Specify pid file (default: academiccoind.pid)</source>
+        <translation>Specifica pid plicam (praedefinitum: academiccoin.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2299,24 +2299,24 @@ Inscriptio: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Feathercoinrpc
+rpcuser=academiccoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Feathercoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;academiccoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, necesse est te rpcpassword constituere in plica configurationis:
 %s
 Hortatur te hanc fortuitam tesseram uti:
-rpcuser=Feathercoinrpc
+rpcuser=academiccoinrpc
 rpcpassword=%s
 (non est necesse te hanc tesseram meminisse)
 Nomen usoris et tessera eadem esse NON POSSUNT.
 Si plica non existit, eam crea cum permissionibus ut eius dominus tantum sinitur id legere.
 Quoque hortatur alertnotify constituere ut tu notificetur de problematibus;
-exempli gratia: alertnotify=echo %%s | mail -s &quot;Feathercoin Notificatio&quot; admin@foo.com
+exempli gratia: alertnotify=echo %%s | mail -s &quot;academiccoin Notificatio&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2331,8 +2331,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Feathercoin Notificatio&quo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Feathercoin is probably already running.</source>
-        <translation>Non posse serare datorum indicem %s.  Feathercoin probabiFeatherr iam operatur.</translation>
+        <source>Cannot obtain a lock on data directory %s. academiccoin is probably already running.</source>
+        <translation>Non posse serare datorum indicem %s.  academiccoin probabiFeatherr iam operatur.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2376,8 +2376,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Feathercoin Notificatio&quo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Feathercoin will not work properly.</source>
-        <translation>Monitio: Sodes cura ut dies tempusque computatri tui recti sunt!  Si horologium tuum pravum est, Feathercoin non proprie fungetur.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong academiccoin will not work properly.</source>
+        <translation>Monitio: Sodes cura ut dies tempusque computatri tui recti sunt!  Si horologium tuum pravum est, academiccoin non proprie fungetur.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2626,8 +2626,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Feathercoin Notificatio&quo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Feathercoin Wiki for SSL setup instructions)</source>
-        <translation>Optiones SSL: (vide vici de Feathercoin pro instructionibus SSL configurationis)</translation>
+        <source>SSL options: (see the academiccoin Wiki for SSL setup instructions)</source>
+        <translation>Optiones SSL: (vide vici de academiccoin pro instructionibus SSL configurationis)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2816,13 +2816,13 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Feathercoin Notificatio&quo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Feathercoin</source>
-        <translation>Error legendi wallet.dat: Cassidili necesse est recentior versio Feathercoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of academiccoin</source>
+        <translation>Error legendi wallet.dat: Cassidili necesse est recentior versio academiccoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Feathercoin to complete</source>
-        <translation>Cassidili necesse erat rescribi: Repelle Feathercoin ut compleas</translation>
+        <source>Wallet needed to be rewritten: restart academiccoin to complete</source>
+        <translation>Cassidili necesse erat rescribi: Repelle academiccoin ut compleas</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2881,8 +2881,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Feathercoin Notificatio&quo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Feathercoin is probably already running.</source>
-        <translation>Non posse conglutinare ad %s in hoc cumputatro.  Feathercoin probabiFeatherr iam operatur.</translation>
+        <source>Unable to bind to %s on this computer. academiccoin is probably already running.</source>
+        <translation>Non posse conglutinare ad %s in hoc cumputatro.  academiccoin probabiFeatherr iam operatur.</translation>
     </message>
     <message>
         <location line="+64"/>
