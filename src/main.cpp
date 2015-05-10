@@ -1077,10 +1077,10 @@ uint256 static GetOrphanRoot(const CBlockHeader* pblock)
 
 int64 GetBlockValue(int nHeight, int64 nFees)
 {
-    int64 nSubsidy = 200 * COIN;
+    int64 nSubsidy = 100 * COIN;
 	
 	if(nHeight >= nForkThree || (fTestNet))
-		nSubsidy = 80 * COIN;
+		nSubsidy = 50 * COIN;
 
     // Halving subsidy happens every 2,100,000 blocks. The code below takes account for the
     // fact that the first 204,639 blocks took 2.5 minutes and after changed to 1 minute.
@@ -1090,7 +1090,7 @@ int64 GetBlockValue(int nHeight, int64 nFees)
 }
 
 int nTargetTimespan = 3.5 * 24 * 60 * 60; // 3.5 days
-int nTargetSpacing = 2.5 * 60; // 2.5 minutes
+int nTargetSpacing = 3.5 * 60; // 2.5 minutes
 
 unsigned int static GetNextWorkRequired(const CBlockIndex* pindexLast, const CBlockHeader *pblock)
 {
